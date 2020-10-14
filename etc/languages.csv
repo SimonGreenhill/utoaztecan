@@ -1,0 +1,52 @@
+ID,DatabaseID,Name,Glottocode,ISO639P3code
+Mono,1,Mono,mono1275,mnr
+NorthernPaiute,2,Northern Paiute,nort2954,pao
+Pannamint,3,Timbisha (Pannamint),pana1305,par
+ShoshoniGosiute,4,Gosiute Shoshone,gosi1242,shh
+Comanche,5,Comanche,coma1245,com
+Kawaiisu,6,Kawaiisu,kawa1283,xaw
+Chemehuevi,7,Chemehuevi,chem1251,ute
+SouthernPaiute,8,Southern Paiute,sout2969,ute
+SouthernUte,9,Southern Ute,utee1244,ute
+Tubatulabel,10,Tübatulabal,tuba1278,tub
+Serrano,11,Serrano,serr1255,ser
+Cahuilla,12,Cahuilla,cahu1264,chl
+Cupeno,13,Cupeño,cupe1243,cup
+Luiseno,14,Luiseño,luis1253,lui
+Gabrielino,15,Tongva,tong1329,ser
+Hopi,16,Hopi,hopi1249,hop
+Papago,17,O'odham,toho1245,ood
+PimaDeOnavas,18,Pima de Onavas,pima1248,ood
+NorthernTepehuan,19,Northern Tepehuan,nort2959,ntp
+Opata,20,Ópata,opat1246,opt
+Eudeve,21,Eudeve,eude1234,opt
+Guarijio,22,Guarijío,huar1255,var
+Tarahumara,23,Tarahumara,cent2131,tar
+Tubar,24,Tubar,tuba1279,tbu
+Mayo,25,Mayo,mayo1264,mfy
+Yaqui,26,Yaqui,yaqu1251,yaq
+Cora,27,Cora,elna1235,crn
+Huichol,28,Huichol,huic1243,hch
+ClassicalAztec,29,Classical Nahuatl,clas1250,nci
+AztecTetelcingo,30,Tetelcingo Nahuatl,tete1251,nhg
+AztecZacapoaxtla,31,Zacapoaxtla Nahuatl,high1278,azz
+Pipil,32,Pipil,pipi1250,ppl
+SoutheasternTepehuan,33,Southeastern Tepehuan,sout2976,stp
+Kitanemuk,34,Kitanemuk,kita1252,ser
+Kiowa,35,Kiowa,kiow1266,kio
+SanJuanPuebloTewa,36,San Juan Pueblo Tewa,sanj1276,tew
+SoutheasternTepehuan,37,Southeastern Tepehuan,sout2976,stp
+BigSmokyValleyShoshone,38,Big Smoky Valley Shoshone,west2622,shh
+Juaneno,39,Juaneño,juan1251,lui
+WesternShoshone,40,Western Shoshone,west2622,shh
+AztecPochutla,41,Aztec (Pochutla),poch1244,xpo
+Ipai,42,Ipai,kumi1248,dih
+Coahuilteco,44,Coahuilteco,coah1252,xcw
+Comecrudo,45,Comecrudo,come1253,
+Cotaname,46,Cotaname,coto1248,xcn
+Karankawa,47,Karankawa,kara1289,zkk
+ProtoKeresan,48,Proto-Keresan,kere1287,
+Acoma,49,Acoma,acom1246,kjq
+SantaAna,50,Santa Ana,sant1426,
+SantaDomingo,51,Santa Domingo,sant1425,
+Zuni,52,Zuni,zuni1245,zun
