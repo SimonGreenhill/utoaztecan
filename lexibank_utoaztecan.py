@@ -103,7 +103,8 @@ class Dataset(BaseDataset):
                 bibkey = sources.get(d['source_id'], None)
 
                 lex = args.writer.add_forms_from_value(
-                    ID=d['id'],  # TODO check
+                    ID=d['id'],
+                    Local_ID = d['id'],
                     Language_ID=language,
                     Parameter_ID=concepts.get(d['word_id']),
                     Value=d['item'],
