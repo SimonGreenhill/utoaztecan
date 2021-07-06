@@ -37,6 +37,13 @@
         {
             "dc:title": "python",
             "dc:description": "3.8.1"
+<<<<<<< HEAD
+=======
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+>>>>>>> 0d7cb9e76429c3828c145450d124752a4d303928
         }
     ],
     "rdf:ID": "utoaztecan",
