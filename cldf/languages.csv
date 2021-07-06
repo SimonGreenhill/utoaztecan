@@ -1,7 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,DatabaseID
 Mono,Mono,mono1275,Mono (USA),mnr,North America,37.1935,-119.347,Uto-Aztecan,1
 NorthernPaiute,Northern Paiute,nort2954,Northern Paiute,pao,North America,40.0799,-119.536,Uto-Aztecan,2
-Pannamint,Timbisha (Pannamint),pana1305,Panamint,par,North America,36.0007,-117.901,Uto-Aztecan,3
+Pannamint,Timbisha (Panamint),pana1305,Panamint,par,North America,36.0007,-117.901,Uto-Aztecan,3
 ShoshoniGosiute,Gosiute Shoshone,gosi1242,Gosiute,shh,North America,,,Uto-Aztecan,4
 Comanche,Comanche,coma1245,Comanche,com,North America,34.0,-101.0,Uto-Aztecan,5
 Kawaiisu,Kawaiisu,kawa1283,Kawaiisu,xaw,North America,36.0538,-118.679,Uto-Aztecan,6
@@ -35,7 +35,7 @@ SoutheasternTepehuan,Southeastern Tepehuan,sout2976,Southeastern Tepehuan,stp,No
 Kitanemuk,Kitanemuk,kita1252,Kitanemuk,ser,North America,,,Uto-Aztecan,34
 Kiowa,Kiowa,kiow1266,Kiowa,kio,North America,34.9403,-98.9042,Kiowa-Tanoan,35
 SanJuanPuebloTewa,San Juan Pueblo Tewa,sanj1276,San Juan (USA),tew,North America,,,Kiowa-Tanoan,36
-AztecPochutla,Aztec (Pochutla),poch1244,Pochutec,xpo,North America,15.735073,-96.468076,Uto-Aztecan,41
+AztecPochutla,Pochutec,poch1244,Pochutec,xpo,North America,15.735073,-96.468076,Uto-Aztecan,41
 Coahuilteco,Coahuilteco,coah1252,Coahuilteco,xcw,North America,28.2589,-97.89,Coahuilteco,44
 Comecrudo,Comecrudo,come1253,Comecrudo,,North America,,,Comecrudan,45
 Cotaname,Cotaname,coto1248,Cotoname,xcn,North America,25.9116,-97.3956,Cotoname,46

@@ -6,7 +6,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Uto-Aztecan",
+    "dcat:accessURL": "https://github.com/SimonGreenhill/utoaztecan",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/SimonGreenhill/utoaztecan",
+            "dc:created": "ae0bf50"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -29,11 +36,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.0"
-        },
-        {
-            "dc:title": "python-packages",
-            "dc:relation": "requirements.txt"
+            "dc:description": "3.8.1"
         }
     ],
     "rdf:ID": "utoaztecan",
