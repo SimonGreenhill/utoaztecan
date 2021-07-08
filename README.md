@@ -15,6 +15,8 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 49%](https://img.shields.io/badge/BIPA-49%25-red.svg "BIPA: 49%")
+![CLTS SoundClass: 49%](https://img.shields.io/badge/CLTS%20SoundClass-49%25-red.svg "CLTS SoundClass: 49%")
 
 - **Varieties:** 46
 - **Concepts:** 121
@@ -23,6 +25,10 @@ this dataset using the DOI of the [particular released version](../../releases/)
 - **Synonymy:** 1.16
 - **Cognacy:** 5,813 cognates in 1,371 cognate sets (634 singletons)
 - **Cognate Diversity:** 0.22
+- **Invalid lexemes:** 0
+- **Tokens:** 34,202
+- **Segments:** 279 (143 BIPA errors, 143 CTLS sound class errors, 136 CLTS modified)
+- **Inventory size (avg):** 43.04
 
 # Contributors
 
