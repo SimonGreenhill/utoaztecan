@@ -11,7 +11,7 @@
         {
             "rdf:about": "https://github.com/lexibank/utoaztecan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-7-g7bd3065",
+            "dc:created": "v1.0-9-gcab407e",
             "dc:title": "Repository"
         },
         {
@@ -23,20 +23,24 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.4.0",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.8.1"
         },
         {
             "dc:title": "python-packages",
