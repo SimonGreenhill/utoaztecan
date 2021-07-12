@@ -9,34 +9,34 @@
     "dcat:accessURL": "https://github.com/lexibank/utoaztecan",
     "prov:wasDerivedFrom": [
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/utoaztecan",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-7-g7bd3065",
-            "dc:title": "Repository"
+            "dc:created": "v1.0-9-gcab407e"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
-            "dc:title": "Glottolog"
+            "dc:created": "v4.4"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
-            "dc:title": "Concepticon"
+            "dc:created": "v2.5.0"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
-            "dc:title": "CLTS"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",

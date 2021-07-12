@@ -3875,7 +3875,7 @@ Kiowa-4_two-1,3831,Kiowa,4_two,yíí,yíí,y/j íí/iː,,Watkins1984,4_two-1,fal
 Kiowa-5_big-1,5471,Kiowa,5_big,bîn,bîn,b î/i n,,Watkins1984,,false,^b î n$,default,(pl)
 Kiowa-5_big-2,3832,Kiowa,5_big,ét,ét,é/e t,,Watkins1984,,false,^é t$,default,(sg)
 Kiowa-6_old-1,3834,Kiowa,6_old,eil-,eil-,ei l,,Miller1984,6_old-22,false,^ei l -$,default,of person
-Kiowa-7_small-1,3835,Kiowa,7_small,tʰᴐ́n,tʰᴐ́n,tʰ ɔ n,,Miller1984,7_small-18,false,^tʰ ᴐ́ n$,default,(sg)
+Kiowa-7_small-1,3835,Kiowa,7_small,tʰᴐ́n,tʰᴐ́n,+ tʰ ɔ n,,Miller1984,7_small-18,false,^tʰ ᴐ́ n$,default,(sg)
 Kiowa-8_short-1,5472,Kiowa,8_short,cáádóó,cáádóó,ts áá/aː d óó/oː,,Miller1984,,false,^c áá d óó$,default,(pl)
 Kiowa-8_short-2,3838,Kiowa,8_short,céé,céé,ts éé/eː,,Miller1984,8_short-3,false,^c éé$,default,(sg)
 Kiowa-9_long-1,5473,Kiowa,9_long,kį́į́níí,kį́į́níí,k iː n íí/iː,,Miller1984,9_long-13,false,^k į́į́ n íí$,default,(pl)
@@ -3884,7 +3884,7 @@ Kiowa-10_new-1,3842,Kiowa,10_new,sᴐt-dei,sᴐt-dei,s ɔ t + d ei,,Miller1984,1
 Kiowa-11_good-1,3843,Kiowa,11_good,ǫ́ǫ́,ǫ́ǫ́,ǫ́ǫ́/õː,,Miller1984,11_good-21,false,^ǫ́ǫ́$,default,(be good)
 Kiowa-12_round-1,3844,Kiowa,12_round,bǫ̨̂ǫ̂,bǫ̨̂ǫ̂,b ǫ̨̂/o ǫ̂/o,,Miller1984,12_round-3,false,^b ǫ̨̂ ǫ̂$,default,This is a Pan-Americanism
 Kiowa-13_heavy-1,3845,Kiowa,13_heavy,pʰííhę̀ę̀,pʰííhę̀ę̀,pʰ íí/iː h ę̀ę̀/ẽː,,Watkins1984,13_heavy-2,false,^pʰ íí h ę̀ę̀$,default,
-Kiowa-14_dry-1,3846,Kiowa,14_dry,tʰáp,tʰáp,tʰ á/a p,,Miller1984,14_dry-5,false,^tʰ á p$,default,"But if the UA '1' set was split, this would resemble the Southern Numic forms..."
+Kiowa-14_dry-1,3846,Kiowa,14_dry,tʰáp,tʰáp,+ tʰ á/a p,,Miller1984,14_dry-5,false,^tʰ á p$,default,"But if the UA '1' set was split, this would resemble the Southern Numic forms..."
 Kiowa-15_sharpblade-1,3847,Kiowa,15_sharpblade,páá-,páá-,p áá/aː,,Watkins1984,15_sharpblade-17,false,^p áá -$,default,
 Kiowa-16_dirty-1,3848,Kiowa,16_dirty,pʰąę-da,pʰąę-da,pʰ ã ę/ẽ + d a,,Miller1984,16_dirty-23,false,^pʰ ą ę - d a$,default,
 Kiowa-18_cold-1,3849,Kiowa,18_cold,k'ᴐᴐ́́,k'ᴐᴐ́́,kˀ ɔː,,Watkins1984,18_cold-9,false,^k' ᴐᴐ́́ $,default,"Maybe the TA, GU forms?"
@@ -3905,11 +3905,11 @@ Kiowa-32_seed-1,3865,Kiowa,32_seed,éé,éé,éé/eː,,Miller1984,32_seed-9,fals
 Kiowa-33_blood-1,3866,Kiowa,33_blood,ǫ́ǫ́-m,ǫ́ǫ́-m,ǫ́ǫ́/õː + m,,Harrington1928,33_blood-3,false,^ǫ́ǫ́ - m$,default,
 Kiowa-34_meat-1,3867,Kiowa,34_meat,kíí,kíí,k íí/iː,,Miller1984,34_meat-13,false,^k íí$,default,
 Kiowa-35_skin-1,3868,Kiowa,35_skin,kʰᴐe,kʰᴐe,kʰ ɔ e,,Harrington1928,35_skin-3,false,^kʰ ᴐ e$,default,
-Kiowa-36_bone-1,3869,Kiowa,36_bone,tʰǫ́ǫ́sè,tʰǫ́ǫ́sè,tʰ ǫ́/õ ǫ́/õ s è/e,,Watkins1984,36_bone-7,false,^tʰ ǫ́ ǫ́s è$,default,
+Kiowa-36_bone-1,3869,Kiowa,36_bone,tʰǫ́ǫ́sè,tʰǫ́ǫ́sè,+ tʰ ǫ́/õ ǫ́/õ s è/e,,Watkins1984,36_bone-7,false,^tʰ ǫ́ ǫ́s è$,default,
 Kiowa-37_greasefat-1,3870,Kiowa,37_greasefat,k'ᴐ̨ᴐ̨gya,k'ᴐ̨ᴐ̨gya,kˀ ɔ̃ː g y/j a,,Miller1984,37_greasefat-10,false,^k' ᴐ̨ᴐ̨ g ya$,default,
 Kiowa-38_egg-1,3871,Kiowa,38_egg,t'ą́y,t'ą́y,tˀ ã y,,Miller1984,38_egg-12,false,^t' ą́ y$,default,
 Kiowa-39_horn-1,3872,Kiowa,39_horn,gų́ų́dé,gų́ų́dé,g ũː d é/e,,Watkins1984,39_horn-5,false,^g ų́ų́ d é$,default,
-Kiowa-40_tail-1,3873,Kiowa,40_tail,tʰón,tʰón,tʰ ó/o n,,Watkins1984,40_tail-5,false,^tʰ ó n$,default,
+Kiowa-40_tail-1,3873,Kiowa,40_tail,tʰón,tʰón,+ tʰ ó/o n,,Watkins1984,40_tail-5,false,^tʰ ó n$,default,
 Kiowa-41_feather-1,3874,Kiowa,41_feather,áá,áá,áá/aː,,Miller1984,41_feather-14,false,^áá$,default,
 Kiowa-42_hair-1,3875,Kiowa,42_hair,ᴐ́l,ᴐ́l,ᴐ́/ɔ l,,Miller1984,42_hair-11,false,^ᴐ́ l$,default,
 Kiowa-43_head-1,3876,Kiowa,43_head,ᴐ́ltʰǫ́ǫ́,ᴐ́ltʰǫ́ǫ́,ᴐ́/ɔ l tʰ ǫ́ǫ́/ɔ̃ː,,Watkins1984,43_head-16,false,^ᴐ́ l tʰ ǫ́ǫ́$,default,
@@ -3929,9 +3929,9 @@ Kiowa-56_belly-1,3889,Kiowa,56_belly,bót,bót,b ó/o t,,Miller1984,56_belly-2,f
 Kiowa-57_navelbellybutton-1,3890,Kiowa,57_navelbellybutton,pʰei-pʰoo-t,pʰei-pʰoo-t,pʰ ei + pʰ oː + t,,Miller1984,57_navelbellybutton-1,false,^pʰ ei - pʰ oo - t$,default,
 Kiowa-58_neck-1,3891,Kiowa,58_neck,k'ᴐ́l,k'ᴐ́l,kˀ ɔ l,,Watkins1984,58_neck-6,false,^k' ᴐ́ l$,default,
 Kiowa-59_breast-1,3892,Kiowa,59_breast,zép,zép,z é/e p,,Miller1984,59_breast-4,false,^z é p$,default,
-Kiowa-60_heart-1,3893,Kiowa,60_heart,tʰén,tʰén,tʰ é/e n,,Miller1984,60_heart-10,false,^tʰ é n$,default,
+Kiowa-60_heart-1,3893,Kiowa,60_heart,tʰén,tʰén,+ tʰ é/e n,,Miller1984,60_heart-10,false,^tʰ é n$,default,
 Kiowa-61_liver-1,3894,Kiowa,61_liver,t'ᴐ́l,t'ᴐ́l,tˀ ɔ l,,Watkins1984,61_liver-5,false,^t' ᴐ́ l$,default,
-Kiowa-62_drink-1,3895,Kiowa,62_drink,tʰǫ́ǫ́,tʰǫ́ǫ́,tʰ ǫ́ǫ́/ɔ̃ː,,Miller1984,62_drink-6,false,^tʰ ǫ́ǫ́$,default,
+Kiowa-62_drink-1,3895,Kiowa,62_drink,tʰǫ́ǫ́,tʰǫ́ǫ́,+ tʰ ǫ́ǫ́/ɔ̃ː,,Miller1984,62_drink-6,false,^tʰ ǫ́ǫ́$,default,
 Kiowa-63_eat-1,3896,Kiowa,63_eat,pᴐ́ᴐ́,pᴐ́ᴐ́,p ɔː,,Miller1984,63_eat-5,false,^p ᴐ́ᴐ́$,default,
 Kiowa-64_bite-1,3897,Kiowa,64_bite,k'ᴐ́l,k'ᴐ́l,kˀ ɔ l,,Miller1984,64_bite-1,false,^k' ᴐ́ l$,default,
 Kiowa-65_vomit-1,3899,Kiowa,65_vomit,zoo,zoo,z oː,,Harrington1928,65_vomit-1,false,^z oo$,default,
@@ -3956,7 +3956,7 @@ Kiowa-82_sun-1,3918,Kiowa,82_sun,páy,páy,p áy/ai,,Watkins1984,82_sun-8,false,
 Kiowa-83_moon-1,3919,Kiowa,83_moon,p'ᴐ́ᴐ́hę̀ę̀,p'ᴐ́ᴐ́hę̀ę̀,pˀ ɔ ɔ h ę̀ę̀/ẽː,,Watkins1984,83_moon-2,false,^p' ᴐ́ ᴐ́h ę̀ę̀$,default,
 Kiowa-84_star-1,3920,Kiowa,84_star,tą́ą́,tą́ą́,t ãː,,Miller1984,84_star-1,false,^t ą́ą́$,default,
 Kiowa-85_sky-1,3921,Kiowa,85_sky,pʰą-n,pʰą-n,pʰ ã + n,,Harrington1928,85_sky-9,false,^pʰ ą - n$,default,
-Kiowa-86_water-1,3922,Kiowa,86_water,tʰǫ́ǫ́,tʰǫ́ǫ́,tʰ ǫ́ǫ́/ɔ̃ː,,Miller1984,86_water-3,false,^tʰ ǫ́ǫ́$,default,
+Kiowa-86_water-1,3922,Kiowa,86_water,tʰǫ́ǫ́,tʰǫ́ǫ́,+ tʰ ǫ́ǫ́/ɔ̃ː,,Miller1984,86_water-3,false,^tʰ ǫ́ǫ́$,default,
 Kiowa-87_wind-1,3923,Kiowa,87_wind,gómgyá,gómgyá,g ó/o m g y/j á/a,,Miller1984,87_wind-9,false,^g ó m g yá$,default,
 Kiowa-88_rain-1,3924,Kiowa,88_rain,sép,sép,s é/e p,,Miller1984,88_rain-14,false,^s é p$,default,Looks like UA 'cold' words
 Kiowa-89_snow-1,3925,Kiowa,89_snow,t'ool,t'ool,tˀ oː l,,Miller1984,89_snow-11,false,^t' oo l$,default,
@@ -3968,7 +3968,7 @@ Kiowa-94_cloud-1,3930,Kiowa,94_cloud,pʰą-n,pʰą-n,pʰ ã + n,,Miller1984,94
 Kiowa-95_smoke-1,3931,Kiowa,95_smoke,háábè,háábè,h áá/aː b è/e,,Miller1984,95_smoke-7,false,^h áá b è$,default,
 Kiowa-96_fire-1,3932,Kiowa,96_fire,pʰÍÍ-,pʰÍÍ-,pʰ ÍÍ/ɪː,,Watkins1984,96_fire-8,false,^pʰÍÍ- $,default,
 Kiowa-97_ash-1,3933,Kiowa,97_ash,sᴐᴐpʰąn,sᴐᴐpʰąn,s ɔː pʰ ã n,,Harrington1928,97_ash-11,false,^s ᴐᴐ pʰ ą n$,default,
-Kiowa-98_burn-1,3934,Kiowa,98_burn,tʰǫǫ,tʰǫǫ,tʰ ǫǫ/õː,,Miller1984,98_burn-14,false,^tʰ ǫǫ$,default,looks like UA ton- 'hot' words reflected in the AZ form
+Kiowa-98_burn-1,3934,Kiowa,98_burn,tʰǫǫ,tʰǫǫ,+ tʰ ǫǫ/õː,,Miller1984,98_burn-14,false,^tʰ ǫǫ$,default,looks like UA ton- 'hot' words reflected in the AZ form
 Kiowa-99_pathroad-1,3935,Kiowa,99_pathroad,ᴐ̀n,ᴐ̀n,ɔ n,,Miller1984,99_pathroad-3,false,^ᴐ̀ n$,default,
 Kiowa-100_mountain-1,3936,Kiowa,100_mountain,k'óp,k'óp,kˀ ó/o p,,Watkins1984,100_mountain-2,false,^k' ó p$,default,
 Kiowa-101_red-1,3937,Kiowa,101_red,gúl,gúl,g ú/u l,,Miller1984,101_red-14,false,^g ú l$,default,
