@@ -22236,7 +22236,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "+": 27,
+                "+": 19,
                 "a": 7,
                 "ae": 1,
                 "a\u02d0": 1,
@@ -49016,65 +49016,8 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Kiowa-14_dry-1",
-                "Kiowa",
-                "14_dry",
-                "t\u02b0\u00e1p",
-                "+ t\u02b0 \u00e1/a p"
-            ],
-            [
-                "Kiowa-36_bone-1",
-                "Kiowa",
-                "36_bone",
-                "t\u02b0\u00f3\u0328\u00f3\u0328s\u00e8",
-                "+ t\u02b0 \u01eb\u0301/\u00f5 \u01eb\u0301/\u00f5 s \u00e8/e"
-            ],
-            [
-                "Kiowa-40_tail-1",
-                "Kiowa",
-                "40_tail",
-                "t\u02b0\u00f3n",
-                "+ t\u02b0 \u00f3/o n"
-            ],
-            [
-                "Kiowa-60_heart-1",
-                "Kiowa",
-                "60_heart",
-                "t\u02b0\u00e9n",
-                "+ t\u02b0 \u00e9/e n"
-            ],
-            [
-                "Kiowa-62_drink-1",
-                "Kiowa",
-                "62_drink",
-                "t\u02b0\u00f3\u0328\u00f3\u0328",
-                "+ t\u02b0 \u01eb\u0301\u01eb\u0301/\u0254\u0303\u02d0"
-            ],
-            [
-                "Kiowa-7_small-1",
-                "Kiowa",
-                "7_small",
-                "t\u02b0\u1d10\u0301n",
-                "+ t\u02b0 \u0254 n"
-            ],
-            [
-                "Kiowa-86_water-1",
-                "Kiowa",
-                "86_water",
-                "t\u02b0\u00f3\u0328\u00f3\u0328",
-                "+ t\u02b0 \u01eb\u0301\u01eb\u0301/\u0254\u0303\u02d0"
-            ],
-            [
-                "Kiowa-98_burn-1",
-                "Kiowa",
-                "98_burn",
-                "t\u02b0o\u0328o\u0328",
-                "+ t\u02b0 \u01eb\u01eb/\u00f5\u02d0"
-            ]
-        ],
-        "bad_words_count": 8,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -50093,7 +50036,7 @@
         "sclass_errors": [],
         "segments": {
             "'/\u0294": 1,
-            "+": 1409,
+            "+": 1401,
             "7/\u0294": 66,
             "E/e": 5,
             "I/\u026a": 6,

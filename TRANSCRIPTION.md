@@ -8,7 +8,7 @@
 | a | 2999 | ✓ | ✓ |
 | i | 2107 | ✓ | ✓ |
 | t | 1788 | ✓ | ✓ |
-| + | 1409 | ✓ | ✓ |
+| + | 1401 | ✓ | ✓ |
 | n | 1382 | ✓ | ✓ |
 | k | 1298 | ✓ | ✓ |
 | u | 1102 | ✓ | ✓ |
@@ -361,16 +361,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------|:-----------|:----------|:-------|:-------------------|
-| Kiowa-14_dry-1 | Kiowa | 14_dry | tʰáp | + tʰ á/a p |
-| Kiowa-36_bone-1 | Kiowa | 36_bone | tʰǫ́ǫ́sè | + tʰ ǫ́/õ ǫ́/õ s è/e |
-| Kiowa-40_tail-1 | Kiowa | 40_tail | tʰón | + tʰ ó/o n |
-| Kiowa-60_heart-1 | Kiowa | 60_heart | tʰén | + tʰ é/e n |
-| Kiowa-62_drink-1 | Kiowa | 62_drink | tʰǫ́ǫ́ | + tʰ ǫ́ǫ́/ɔ̃ː |
-| Kiowa-7_small-1 | Kiowa | 7_small | tʰᴐ́n | + tʰ ɔ n |
-| Kiowa-86_water-1 | Kiowa | 86_water | tʰǫ́ǫ́ | + tʰ ǫ́ǫ́/ɔ̃ː |
-| Kiowa-98_burn-1 | Kiowa | 98_burn | tʰǫǫ | + tʰ ǫǫ/õː |
+|------|------------|-----------|--------|------------|
 
-(8 rows)
+(0 rows)
 
 
