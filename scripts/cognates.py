@@ -43,7 +43,7 @@ lex.cluster(method="lexstat", threshold=0.55, ref="lexstatid")
 lex.output("tsv", filename="lexstat-analysis")
 lex.output('tsv', filename="autocognates", ignore="all", prettify=False)
 
-bcubes(lex, "cogid", "lexstatid")
+
 
 
 
