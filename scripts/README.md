@@ -1,20 +1,15 @@
 # Analyzing Cognate Decisions
 
-In order to carry out the automated cognate detection analysis using LingPy, please make sure that you have installed the most recent version of LingPy and the most recent version of LingRex, which you can install easily with the help of `pip`:
+In order to carry out the automated cognate detection analysis using LingPy, please make sure that you have installed the most recent version of LingPy and the most recent version of LingRex and CL Toolkit, which you can install easily with the help of `pip`:
 
 ```
 $ pip install lingpy
 $ pip install lingrex
+$ pip install cltoolkit
 ```
 
 Make also sure to install [python-igraph](https://igraph.org), which will require to install the general igraph library first (igraph is used for clustering cognates).
 
-In addition, you need `cltoolkit`, which you can install from GitHub:
-
-```
-$ git clone https://github.com/cldf/cltoolkit.git
-$ pip install -e ./
-```
 
 Once this has been done, simply type:
 
