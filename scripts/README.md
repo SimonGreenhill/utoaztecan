@@ -8,8 +8,18 @@ $ pip install lingrex
 $ pip install cltoolkit
 ```
 
-Make also sure to install [python-igraph](https://igraph.org), which will require to install the general igraph library first (igraph is used for clustering cognates).
+Then, make sure to install the pyclts package and to download the CLTS data, placing it into the `scripts` folder.
 
+```
+$ pip install pyclts
+$ cd scripts
+$ git clone https://github.com/cldf-clts/clts
+$ cd clts
+$ git checkout v2.1.0
+$ cd ..
+```
+
+Make also sure to install [python-igraph](https://igraph.org), which will require to install the general igraph library first (igraph is used for clustering cognates).
 
 Once this has been done, simply type:
 
