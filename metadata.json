@@ -1,10 +1,10 @@
 {
     "id": "utoaztecan",
-    "title": "Uto-Aztecan",
+    "title": "CLDF Dataset on Lexical Cognates in Uto-Aztecan",
     "description": null,
-    "license": null,
+    "license": "CC-BY-4.0",
     "url": null,
-    "citation": null,
+    "citation": "Greenhill, Simon J. and Campbell, Lyle (2021): Lexical Cognates in Uto-Aztecan. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "aboutUrl": null,
     "conceptlist": [],
     "lingpy_schema": null,
@@ -12,5 +12,5 @@
     "related": null,
     "source": null,
     "patron": null,
-    "version": "2.7.0"
+    "version": "1.1.0"
 }
