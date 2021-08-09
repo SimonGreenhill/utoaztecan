@@ -1,10 +1,10 @@
 {
     "id": "utoaztecan",
-    "title": "CLDF Dataset on Lexical Cognates in Uto-Aztecan",
+    "title": "CLDF Dataset accompanying Greenhill et al.'s `"Origin of Uto-Aztecan`" from 2021",
     "description": null,
     "license": "CC-BY-4.0",
     "url": null,
-    "citation": "Greenhill, Simon J. and Campbell, Lyle (2021): Lexical Cognates in Uto-Aztecan. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "citation": "Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2021): A recent northern origin for the Uto-Aztecan language family. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "aboutUrl": null,
     "conceptlist": [],
     "lingpy_schema": null,
