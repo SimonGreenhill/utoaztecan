@@ -1,5 +1,5 @@
 {
-    "title": "Uto-Aztecan",
+    "title": "CLDF Dataset accompanying Greenhill et al.'s \"Origin of Uto-Aztecan\" from 2021",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -7,7 +7,28 @@
     ],
     "creators": [
         {
-            "name": "Simon J. Greenhill"
+            "name": "Greenhill, Simon J."
+        },
+        {
+            "name": "Hannah J. Haynie"
+        },
+        {
+            "name": "Robert M. Ross"
+        },
+        {
+            "name": "Angela M. Chira"
+        },
+        {
+            "name": "List, Johann-Mattis"
+        },
+        {
+            "name": "Lyle Campbell"
+        },
+        {
+            "name": "Carlos A. Botero"
+        },
+        {
+            "name": "Russell D. Gray"
         }
     ],
     "contributors": [],
@@ -16,5 +37,9 @@
             "identifier": "lexibank"
         }
     ],
-    "upload_type": "dataset"
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2021): A recent northern origin for the Uto-Aztecan language family. Leipzig: Max Planck Institute for Evolutionary Anthropology.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

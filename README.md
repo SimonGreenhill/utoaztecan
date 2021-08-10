@@ -1,4 +1,16 @@
-# Uto-Aztecan
+# CLDF Dataset accompanying Greenhill et al.'s "Origin of Uto-Aztecan" from 2021
+
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2021): A recent northern origin for the Uto-Aztecan language family. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 ## Statistics
 
@@ -24,8 +36,23 @@
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Simon J. Greenhill | @SimonGreenhill | maintainer
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Greenhill, Simon J. | @SimonGreenhill | | Author
+Hannah J. Haynie | | | Author
+Robert M. Ross | | | Author
+Angela M. Chira | | | Author
+List, Johann-Mattis | | | Author
+Lyle Campbell | | | Author
+Carlos A. Botero | | | Author
+Russell D. Gray | | | Author
 
 
+
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
