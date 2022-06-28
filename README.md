@@ -15,7 +15,7 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/utoaztecan.svg?branch=master)](https://travis-ci.org/lexibank/utoaztecan)
+[![Build Status](https://travis-ci.org/SimonGreenhill/utoaztecan.svg?branch=master)](https://travis-ci.org/SimonGreenhill/utoaztecan)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -31,7 +31,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognate Diversity:** 0.22
 - **Invalid lexemes:** 0
 - **Tokens:** 29,201
-- **Segments:** 339 (0 BIPA errors, 0 CTLS sound class errors, 336 CLTS modified)
+- **Segments:** 339 (0 BIPA errors, 0 CLTS sound class errors, 336 CLTS modified)
 - **Inventory size (avg):** 48.52
 
 # Contributors

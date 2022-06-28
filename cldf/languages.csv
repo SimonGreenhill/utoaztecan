@@ -2,7 +2,7 @@ ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Fami
 Mono,Mono,mono1275,Mono (USA),mnr,North America,37.1935,-119.347,Uto-Aztecan,1
 NorthernPaiute,Northern Paiute,nort2954,Northern Paiute,pao,North America,40.0799,-119.536,Uto-Aztecan,2
 Pannamint,Timbisha (Panamint),pana1305,Panamint,par,North America,36.0007,-117.901,Uto-Aztecan,3
-ShoshoniGosiute,Gosiute Shoshone,gosi1242,Gosiute,shh,North America,,,Uto-Aztecan,4
+ShoshoniGosiute,Shoshone (Gosiute),gosi1242,Gosiute,shh,North America,,,Uto-Aztecan,4
 Comanche,Comanche,coma1245,Comanche,com,North America,34.0,-101.0,Uto-Aztecan,5
 Kawaiisu,Kawaiisu,kawa1283,Kawaiisu,xaw,North America,36.0538,-118.679,Uto-Aztecan,6
 Chemehuevi,Chemehuevi,chem1251,Chemehuevi,ute,North America,35.356093,-116.438436,Uto-Aztecan,7
@@ -16,7 +16,7 @@ Luiseno,Luiseño,luis1253,Luiseno-Juaneño,lui,North America,33.3184,-116.939,Ut
 Gabrielino,Tongva,tong1329,Tongva,ser,North America,34.1,-118.11,Uto-Aztecan,15
 Hopi,Hopi,hopi1249,Hopi,hop,North America,35.7653,-110.535,Uto-Aztecan,16
 Papago,O'odham,toho1245,Tohono O'odham,ood,North America,31.7973,-111.995,Uto-Aztecan,17
-PimaDeOnavas,Pima de Onavas,pima1248,Pima Bajo,ood,North America,28.654,-108.326,Uto-Aztecan,18
+PimaDeOnavas,Pima Bajo,pima1248,Pima Bajo,ood,North America,28.654,-108.326,Uto-Aztecan,18
 NorthernTepehuan,Northern Tepehuan,nort2959,Northern Tepehuan,ntp,North America,26.4348,-107.379,Uto-Aztecan,19
 Opata,Ópata,opat1246,Teguima,opt,North America,31.15211,-110.06212,Uto-Aztecan,20
 Eudeve,Eudeve,eude1234,Eudeve,opt,North America,28.5,-110.0,Uto-Aztecan,21
@@ -34,7 +34,7 @@ Pipil,Pipil,pipi1250,Pipil,ppl,North America,13.8931,-89.443,Uto-Aztecan,32
 SoutheasternTepehuan,Southeastern Tepehuan,sout2976,Southeastern Tepehuan,stp,North America,23.1584,-103.983,Uto-Aztecan,33
 Kitanemuk,Kitanemuk,kita1252,Kitanemuk,ser,North America,,,Uto-Aztecan,34
 Kiowa,Kiowa,kiow1266,Kiowa,kio,North America,34.9403,-98.9042,Kiowa-Tanoan,35
-SanJuanPuebloTewa,San Juan Pueblo Tewa,sanj1276,San Juan (USA),tew,North America,,,Kiowa-Tanoan,36
+SanJuanPuebloTewa,San Juan Pueblo Tewa,sanj1276,San Juan (USA),tew,North America,36.0542,-106.0703,Kiowa-Tanoan,36
 AztecPochutla,Pochutec,poch1244,Pochutec,xpo,North America,15.735073,-96.468076,Uto-Aztecan,41
 Coahuilteco,Coahuilteco,coah1252,Coahuilteco,xcw,North America,28.2589,-97.89,Coahuilteco,44
 Comecrudo,Comecrudo,come1253,Comecrudo,,North America,,,Comecrudan,45
