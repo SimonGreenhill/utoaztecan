@@ -2,7 +2,7 @@ ID,DatabaseID,Name,Glottocode,ISO639P3code
 Mono,1,Mono,mono1275,mnr
 NorthernPaiute,2,Northern Paiute,nort2954,pao
 Pannamint,3,Timbisha (Panamint),pana1305,par
-ShoshoniGosiute,4,Gosiute Shoshone,gosi1242,shh
+ShoshoniGosiute,4,Shoshone (Gosiute),gosi1242,shh
 Comanche,5,Comanche,coma1245,com
 Kawaiisu,6,Kawaiisu,kawa1283,xaw
 Chemehuevi,7,Chemehuevi,chem1251,ute
@@ -16,7 +16,7 @@ Luiseno,14,Luiseño,luis1253,lui
 Gabrielino,15,Tongva,tong1329,ser
 Hopi,16,Hopi,hopi1249,hop
 Papago,17,O'odham,toho1245,ood
-PimaDeOnavas,18,Pima de Onavas,pima1248,ood
+PimaDeOnavas,18,Pima Bajo,pima1248,ood
 NorthernTepehuan,19,Northern Tepehuan,nort2959,ntp
 Opata,20,Ópata,opat1246,opt
 Eudeve,21,Eudeve,eude1234,opt

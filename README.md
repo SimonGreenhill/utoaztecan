@@ -31,7 +31,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognate Diversity:** 0.22
 - **Invalid lexemes:** 0
 - **Tokens:** 29,062
-- **Segments:** 353 (0 BIPA errors, 0 CLTS sound class errors, 350 CLTS modified)
+- **Segments:** 353 (0 BIPA errors, 0 CTLS sound class errors, 350 CLTS modified)
 - **Inventory size (avg):** 49.48
 
 # Contributors
@@ -41,8 +41,8 @@ Name | GitHub user | Description | Role
 Greenhill, Simon J. | @SimonGreenhill | | Author
 Hannah J. Haynie | | | Author
 Robert M. Ross | | | Author
-Angela M. Chira | | | Author
-List, Johann-Mattis | | | Author
+Angela M. Chira | @angela-mc | | Author
+List, Johann-Mattis | @LinguList | | Author
 Lyle Campbell | | | Author
 Carlos A. Botero | | | Author
 Russell D. Gray | | | Author
