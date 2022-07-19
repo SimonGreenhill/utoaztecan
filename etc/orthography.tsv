@@ -1,4 +1,24 @@
 Grapheme	IPA
+dy	d y/j
+ʔw	ˀw
+zʔ	zˀ
+ty7	tʲˀ
+7k	ˀk
+7y7	ʔ y ʔ
+7jt	ˀdʒ t
+7w	ˀw
+7nyk	ˀn y k
+7k	ˀk
+ʔn	ˀn
+ʔy	ʔy/ˀj
+ʔj	ˀdʒ
+ʔm	ˀm
+kʔ	kˀ
+wʔ	wˀ
+lʔ	lˀ
+ʔk	ˀk
+7ch	7ch/ˀtʃ
+7c	7c/ˀts
 """$"	NULL
 $	NULL
 '$	ʔ
@@ -111,7 +131,7 @@ Y	y
 ^iyá	i y/j á/a
 ^iɑ	i ɑ
 ^i̱	i̠
-^j	j
+^j	j/dʒ
 ^k	k
 ^k'	kˀ
 ^kh	kʰ
@@ -351,7 +371,8 @@ bb	bː
 bh	bʱ
 bs	b s
 bs$	b s
-c	c
+c	ts
+ʔj	ˀdʒ
 c$	ts
 c'	tsˀ
 cc	tsː
@@ -455,7 +476,7 @@ iɨo	iɨ o
 i̓	i̓/i
 i̱	i̠
 i̱$	i̠
-j	j
+j	j/dʒ
 j$	j
 k	k
 k$	k
@@ -588,6 +609,13 @@ uia	u i/j a
 uia$	u i/j a
 uu	uː
 uu$	uː
+hk	ʰk
+qʔ	qˀ
+^kʔ	kˀ
+ʔc	ˀtʃ
+^ʔc	ˀtʃ
+ʔn	ˀn
+^ʔn	ˀn
 uu̱$	u̠ː
 uy	u y/j
 uy$	uy/ui
@@ -602,7 +630,8 @@ uá$	u á/a
 uáa	u áa/aː
 uí	uí/ui
 uí$	uí/ui
-uú	úː
+uú	uú/uː
+úu	úu/uː
 u̓$	u̓/u
 u̧	u̧/ũ
 u̧u̧	u̧u̧/ũː
