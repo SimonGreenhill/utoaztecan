@@ -301,12 +301,12 @@ Serrano-8_short-3,5040,Serrano,8_short,muti-pik,muti-pik,m u t i + p i k,,Miller
 Serrano-9_long-1,267,Serrano,9_long,mitaʔi,mitaʔi,m i t a ʔ i,,Miller1984,9_long-7,false,^m i t a ʔ i$,default,
 Serrano-10_new-1,299,Serrano,10_new,amai-t,amai-t,a m ai + t,,Miller1984,10_new-6,false,^a m ai - t$,default,
 Serrano-11_good-1,331,Serrano,11_good,aʔai,aʔai,a ʔ ai,,Miller1984,11_good-3,false,^a ʔ ai$,default,
-Serrano-12_round-1,363,Serrano,12_round,pucupuʔq,pucupuʔq,p u ts u p u ʔ q,,Miller1984,12_round-21,false,^p u c u p u ʔ q$,default,JHH: Not (1) unless we invoke sound symbolism
+Serrano-12_round-1,363,Serrano,12_round,pucupuʔq,pucupuʔq,p u ts u p u ˀq,,Miller1984,12_round-21,false,^p u c u p u ʔq $,default,JHH: Not (1) unless we invoke sound symbolism
 Serrano-13_heavy-1,395,Serrano,13_heavy,pɨcɨʔ,pɨcɨʔ,p ɨ ts ɨ ʔ,,Miller1984,13_heavy-2,false,^p ɨ c ɨ ʔ$,default,
 Serrano-14_dry-1,427,Serrano,14_dry,a-waakiʔ,a-waakiʔ,a + w aː k i ʔ,,Miller1984,14_dry-2,false,^a - w aa k i ʔ$,default,
 Serrano-15_sharpblade-1,459,Serrano,15_sharpblade,hacaaʔi,hacaaʔi,h a ts aː ʔ i,,Miller1984,15_sharpblade-4,false,^h a c aa ʔ i$,default,
 Serrano-16_dirty-1,491,Serrano,16_dirty,-còòqav,-còòqav,ts òò/oː q a v,,Miller1984,16_dirty-6,false,^- c òò q a v$,default,
-Serrano-17_full-1,523,Serrano,17_full,pitɨʔq,pitɨʔq,p i t ɨ ʔ q,,Miller1984,17_full-11,false,^p i t ɨ ʔ q$,default,
+Serrano-17_full-1,523,Serrano,17_full,pitɨʔq,pitɨʔq,p i t ɨ ˀq,,Miller1984,17_full-11,false,^p i t ɨ ʔq $,default,
 Serrano-18_cold-1,555,Serrano,18_cold,ɨcɨ,ɨcɨ,ɨ ts ɨ,,Miller1984,18_cold-1,false,^ɨ c ɨ$,default,
 Serrano-19_hot-1,587,Serrano,19_hot,ɨcɨ,ɨcɨ,ɨ ts ɨ,,Miller1984,19_hot-1,false,^ɨ c ɨ$,default,
 Serrano-20_woman-1,619,Serrano,20_woman,nɨɨht,nɨɨht,n ɨː h t,,Miller1984,20_woman-3,false,^n ɨɨ h t$,default,
@@ -365,7 +365,7 @@ Serrano-69_sleep-1,2172,Serrano,69_sleep,kuuman,kuuman,k uː m a n,,Miller1984,6
 Serrano-70_die-1,2204,Serrano,70_die,mɨmɨʔ-q,mɨmɨʔ-q,m ɨ m ɨ ʔ + q,,Miller1984,70_die-8,false,^m ɨ m ɨ ʔ - q$,default,
 Serrano-71_kill-1,2236,Serrano,71_kill,mɨmɨkin,mɨmɨkin,m ɨ m ɨ k i n,,Miller1984,71_kill-3,false,^m ɨ m ɨ k i n$,default,
 Serrano-71_kill-2,5247,Serrano,71_kill,mɨqàn,mɨqàn,m ɨ q à/a n,,Miller1984,71_kill-3,false,^m ɨ q à n$,default,
-Serrano-72_fly-1,2268,Serrano,72_fly,hiiñʔ-k,hiiñʔ-k,h iː ɲ ʔ + k,,Miller1984,72_fly-3,false,^h ii ñ ʔ - k$,default,
+Serrano-72_fly-1,2268,Serrano,72_fly,hiiñʔ-k,hiiñʔ-k,h iː ɲˀ + k,,Miller1984,72_fly-3,false,^h ii ñʔ - k$,default,
 Serrano-72_fly-2,5252,Serrano,72_fly,hiiñiʔ-k,hiiñiʔ-k,h iː ɲ i ʔ + k,,Miller1984,72_fly-3,false,^h ii ñ i ʔ - k$,default,
 Serrano-73_walk-1,2300,Serrano,73_walk,nɨm,nɨm,n ɨ m,,Miller1984,73_walk-1,false,^n ɨ m$,default,
 Serrano-74_come-1,2332,Serrano,74_come,kimai,kimai,k i m ai,,Miller1984,74_come-1,false,^k i m ai$,default,
@@ -448,7 +448,7 @@ Cahuilla-26_louse-1,812,Cahuilla,26_louse,sáʔwa-l,sáʔwa-l,s á/a ˀw a + l,,
 Cahuilla-27_snake-1,844,Cahuilla,27_snake,séwe-t,séwe-t,s é/e w e + t,,Miller1984,27_snake-3,false,^s éw e - t$,default,=rattlesnake
 Cahuilla-28_tree-1,876,Cahuilla,28_tree,kélaw-at,kélaw-at,k é/e l a w + a t,,Miller1984,28_tree-4,false,^k é l a w - a t$,default,
 Cahuilla-29_bark-1,907,Cahuilla,29_bark,táča-l,táča-l,t á/a tʃ a + l,,Miller1984,29_bark-4,false,^t á č a - l$,default,
-Cahuilla-29_bark-2,5102,Cahuilla,29_bark,tášʔa,tášʔa,t á/a ʃ ʔ a,,Miller1984,29_bark-4,false,^t á š ʔ a$,default,
+Cahuilla-29_bark-2,5102,Cahuilla,29_bark,tášʔa,tášʔa,t á/a ʃˀ a,,Miller1984,29_bark-4,false,^t á šʔ a$,default,
 Cahuilla-30_leaf-1,939,Cahuilla,30_leaf,pála-t,pála-t,p á/a l a + t,,Miller1984,30_leaf-2,false,^p á l a - t$,default,
 Cahuilla-31_root-1,971,Cahuilla,31_root,púku-ʔu,púku-ʔu,p ú/u k u + ʔ u,,Miller1984,31_root-6,false,^p ú k u - ʔ u$,default,"Miller püku-ʔu with cognate 4, this is in Seiler & Hioki 1979 Cahuilla dictionary.  But ""4"" is wrong.  I make it ""6"" with Tewa!"
 Cahuilla-32_seed-1,1003,Cahuilla,32_seed,púč-ily,púč-ily,p ú/u tʃ + i l y,,Miller1984,32_seed-1,false,^p ú č - i l y$,default,
@@ -538,16 +538,16 @@ Cahuilla-114_i-1,4076,Cahuilla,114_i,ne,ne,n e,,Miller1984,114_i-1,false,^n e$,d
 Cahuilla-115_yousing-1,4111,Cahuilla,115_yousing,7et,7et,7/ʔ e t,,Miller1984,115_yousing-2,false,^7 e t$,default,JHH: Word is 7et (initial glottal stop is important here)
 Cahuilla-116_we-1,5491,Cahuilla,116_we,tˢem,tˢem,tˢ/ts e m,,Miller1984,116_we-1,false,^tˢ e m$,default,
 Cahuilla-116_we-2,4146,Cahuilla,116_we,tˢe̱mem,tˢe̱mem,tˢ/ts e̠ m e m,,Miller1984,116_we-1,false,^tˢ e̱ m e m$,default,
-Cahuilla-117_what-1,5507,Cahuilla,117_what,hi̱tˢʔɑ,hi̱tˢʔɑ,h i̠ tˢ/ts ʔ ɑ,,Miller1984,117_what-4,false,^h i̱ tˢ ʔ ɑ$,default,
+Cahuilla-117_what-1,5507,Cahuilla,117_what,hi̱tˢʔɑ,hi̱tˢʔɑ,h i̠ tˢ/tsˀ ɑ,,Miller1984,117_what-4,false,^h i̱ tˢʔ ɑ$,default,
 Cahuilla-117_what-2,5508,Cahuilla,117_what,hi̱tˢɑxɑ,hi̱tˢɑxɑ,h i̠ tˢ/ts ɑ x ɑ,,Miller1984,117_what-4,false,^h i̱ tˢ ɑ x ɑ$,default,
 Cahuilla-117_what-3,4181,Cahuilla,117_what,hi̱tˢeʔɑ,hi̱tˢeʔɑ,h i̠ tˢ/ts e ʔ ɑ,,Miller1984,117_what-4,false,^h i̱ tˢ e ʔ ɑ$,default,
-Cahuilla-118_who-1,4216,Cahuilla,118_who,hɑ̱xʔi,hɑ̱xʔi,h ɑ̠ x ʔ i,,Miller1984,118_who-1,false,^h ɑ̱ x ʔ i$,default,
+Cahuilla-118_who-1,4216,Cahuilla,118_who,hɑ̱xʔi,hɑ̱xʔi,h ɑ̠ xˀ i,,Miller1984,118_who-1,false,^h ɑ̱ xʔ i$,default,
 Cahuilla-119_this-1,4251,Cahuilla,119_this,iʔ,iʔ,i ʔ,,Miller1984,119_this-1,false,^i ʔ$,default,
 Cahuilla-120_that-1,5560,Cahuilla,120_that,evat,evat,e v a t,,Miller1984,120_that-5,false,^e v a t$,default,
 Cahuilla-120_that-2,4286,Cahuilla,120_that,et,et,e t,,Miller1984,120_that-5,false,^e t$,default,
 Cahuilla-121_all-1,4321,Cahuilla,121_all,u̱mun,u̱mun,u̠ m u n,,Miller1984,121_all-6,false,^u̱ m u n$,default,
 Cupeno-1_nonot-1,13,Cupeno,1_nonot,qay,qay,q ay/ai,,Miller1984,1_nonot-1,false,^q ay$,default,
-Cupeno-2_many-1,45,Cupeno,2_many,mɨtʔi-š,mɨtʔi-š,m ɨ t ʔ i + ʃ,,Miller1984,2_many-6,false,^m ɨ t ʔ i - š$,default,8?
+Cupeno-2_many-1,45,Cupeno,2_many,mɨtʔi-š,mɨtʔi-š,m ɨ tˀ i + ʃ,,Miller1984,2_many-6,false,^m ɨ tʔ i - š$,default,8?
 Cupeno-3_one-1,77,Cupeno,3_one,súli-t,súli-t,s ú/u l i + t,,Miller1984,3_one-1,false,^s ú l i - t$,default,
 Cupeno-3_one-2,5011,Cupeno,3_one,súpul,súpul,s ú/u p u l,,Miller1984,3_one-1,false,^s ú p u l$,default,= different one).
 Cupeno-4_two-1,109,Cupeno,4_two,wíh,wíh,w í/i h,,Miller1984,4_two-1,false,^w í h$,default,
@@ -568,7 +568,7 @@ Cupeno-18_cold-1,557,Cupeno,18_cold,yúy,yúy,y/j úy/ui,,Miller1984,18_cold-3,f
 Cupeno-19_hot-1,589,Cupeno,19_hot,atíŋvɨ,atíŋvɨ,a t í/i ŋ v ɨ,,Miller1984,19_hot-3,false,^a t í ŋ v ɨ$,default,(from tíŋɨ 'to be hot')
 Cupeno-20_woman-1,621,Cupeno,20_woman,nawíka-t,nawíka-t,n a w í/i k a + t,,Miller1984,20_woman-11,false,^n a w í k a - t$,default,
 Cupeno-21_man-1,653,Cupeno,21_man,naxáni-š,naxáni-š,n a x á/a n i + ʃ,,Miller1984,21_man-3,false,^n a x á n i - š$,default,
-Cupeno-22_person-1,685,Cupeno,22_person,atáxʔa,atáxʔa,a t á/a x ʔ a,,Miller1984,22_person-2,false,^a t á x ʔ a$,default,
+Cupeno-22_person-1,685,Cupeno,22_person,atáxʔa,atáxʔa,a t á/a xˀ a,,Miller1984,22_person-2,false,^a t á xʔ a$,default,
 Cupeno-23_fish-1,717,Cupeno,23_fish,qɨyú-l,qɨyú-l,q ɨ y/j ú/u + l,,Miller1984,23_fish-2,false,^q ɨyú - l$,default,
 Cupeno-24_bird-1,749,Cupeno,24_bird,mukíkmal,mukíkmal,m u k í/i k m a l,,Miller1984,24_bird-9,false,^m u k í k m a l$,default,
 Cupeno-25_dog-1,781,Cupeno,25_dog,awá-l,awá-l,a w á/a + l,,Miller1984,25_dog-4,false,^a w á - l$,default,
@@ -594,9 +594,9 @@ Cupeno-43_head-1,1356,Cupeno,43_head,-yu,-yu,y/j u,,Miller1984,43_head-4,false,^
 Cupeno-44_ear-1,1388,Cupeno,44_ear,náqʔa,náqʔa,n á/a qˀ a,,Miller1984,44_ear-1,false,^n á qʔ a$,default,
 Cupeno-45_eye-1,1420,Cupeno,45_eye,-puš,-puš,p u ʃ,,Miller1984,45_eye-1,false,^- p u š$,default,
 Cupeno-46_nose-1,1452,Cupeno,46_nose,-mu,-mu,m u,,Miller1984,46_nose-1,false,^- m u$,default,
-Cupeno-47_mouth-1,1484,Cupeno,47_mouth,-tamʔa,-tamʔa,t a m ʔ a,,Miller1984,47_mouth-3,false,^- t a m ʔ a$,default,"(=mouth/tooth, #48)"
-Cupeno-48_tooth-1,1515,Cupeno,48_tooth,-tamʔa,-tamʔa,t a m ʔ a,,Miller1984,48_tooth-1,false,^- t a m ʔ a$,default,
-Cupeno-49_tongue-1,1547,Cupeno,49_tongue,-ní̵ŋʔa,-ní̵ŋʔa,n í̵/ɨ ŋ ʔ a,,Miller1984,49_tongue-2,false,^- n í̵ ŋ ʔ a$,default,
+Cupeno-47_mouth-1,1484,Cupeno,47_mouth,-tamʔa,-tamʔa,t a mˀ a,,Miller1984,47_mouth-3,false,^- t a mʔ a$,default,"(=mouth/tooth, #48)"
+Cupeno-48_tooth-1,1515,Cupeno,48_tooth,-tamʔa,-tamʔa,t a mˀ a,,Miller1984,48_tooth-1,false,^- t a mʔ a$,default,
+Cupeno-49_tongue-1,1547,Cupeno,49_tongue,-ní̵ŋʔa,-ní̵ŋʔa,n í̵/ɨ ŋˀ a,,Miller1984,49_tongue-2,false,^- n í̵ ŋʔ a$,default,
 Cupeno-50_clawnail-1,1579,Cupeno,50_clawnail,-ṣulʔa,-ṣulʔa,ṣ/ʂ u lˀ a,,Miller1984,50_clawnail-5,false,^- ṣ u lʔ a$,default,JHH Vowels don't go with Numic
 Cupeno-51_foot-1,1611,Cupeno,51_foot,-xúči,-xúči,x ú/u tʃ i,,Miller1984,51_foot-9,false,^- x ú č i$,default,
 Cupeno-52_knee-1,1643,Cupeno,52_knee,-támi,-támi,t á/a m i,,Miller1984,52_knee-10,false,^- t á m i$,default,JHH:  knee-head (cognate w/ Serrano where is more obvious)
@@ -778,7 +778,7 @@ Luiseno-99_pathroad-1,3135,Luiseno,99_pathroad,pé-t,pé-t,p é/e + t,,Miller198
 Luiseno-100_mountain-1,3167,Luiseno,100_mountain,qawíi-ča,qawíi-ča,q a w í/i i + tʃ a,,Miller1984,100_mountain-2,false,^q a w íi - č a$,default,
 Luiseno-101_red-1,3199,Luiseno,101_red,qwayá-qwya-š,qwayá-qwya-š,q w a y/j á/a + q w y/j a + ʃ,,Miller1984,,true,^qw ayá - qw ya - š$,default,JHH: Yuman loan
 Luiseno-102_green-1,3231,Luiseno,102_green,kunó-knu-š,kunó-knu-š,k u n ó/o + k n u + ʃ,,Miller1984,102_green-10,false,^k u n ó - k n u - š$,default,"JHH: Probably ku-nok-nu-sh ""tree-like"""
-Luiseno-103_yellow-1,3263,Luiseno,103_yellow,aṣó-ʔṣu-š,aṣó-ʔṣu-š,a ṣ/ʂ ó/o + ʔ ṣ/ʂ u + ʃ,,Miller1984,103_yellow-8,false,^a ṣ ó - ʔ ṣ u - š$,default,
+Luiseno-103_yellow-1,3263,Luiseno,103_yellow,aṣó-ʔṣu-š,aṣó-ʔṣu-š,a ṣ/ʂ ó/o + ˀʂ u + ʃ,,Miller1984,103_yellow-8,false,^a ṣ ó - ʔṣ u - š$,default,
 Luiseno-104_white-1,3295,Luiseno,104_white,xwáya-,xwáya-,x w áy/ai a,,Miller1984,104_white-2,false,^xw áy a -$,default,=to be white
 Luiseno-105_black-1,3327,Luiseno,105_black,yuvá-tái,yuvá-tái,j u v á/a + t ái/ai,,Miller1984,105_black-6,false,^yu v á - t ái$,default,=to be black
 Luiseno-106_night-1,3359,Luiseno,106_night,túuku-mi-t,túuku-mi-t,t úu/uː k u + m i + t,,Miller1984,106_night-1,false,^t úu k u - m i - t$,default,(from tuk-)
@@ -792,7 +792,7 @@ Luiseno-114_i-1,4078,Luiseno,114_i,nō,nō,n ō/oː,,Miller1984,114_i-1,false,
 Luiseno-115_yousing-1,4113,Luiseno,115_yousing,om,om,o m,,Miller1984,115_yousing-1,false,^o m$,default,ord is 7et (initial glottal stop is important here)
 Luiseno-116_we-1,5492,Luiseno,116_we,tˢɑ̱̄ʔɑm,tˢɑ̱̄ʔɑm,tˢ/ts ɑ̠̄ ʔ ɑ m,,Miller1984,116_we-1,false,^tˢ ɑ̱̄ ʔ ɑ m$,default,
 Luiseno-116_we-2,5493,Luiseno,116_we,tˢɑ̱ʔɑm,tˢɑ̱ʔɑm,tˢ/ts ɑ̠ ʔ ɑ m,,Miller1984,116_we-1,false,^tˢ ɑ̱ ʔ ɑ m$,default,
-Luiseno-116_we-3,5494,Luiseno,116_we,tˢɑmʔ,tˢɑmʔ,tˢ/ts ɑ m ʔ,,Miller1984,116_we-1,false,^tˢ ɑ m ʔ$,default,
+Luiseno-116_we-3,5494,Luiseno,116_we,tˢɑmʔ,tˢɑmʔ,tˢ/ts ɑ mˀ,,Miller1984,116_we-1,false,^tˢ ɑ mʔ $,default,
 Luiseno-116_we-4,4148,Luiseno,116_we,tˢɑ̱̄ʔum,tˢɑ̱̄ʔum,tˢ/ts ɑ̠̄ ʔ u m,,Miller1984,116_we-1,false,^tˢ ɑ̱̄ ʔ u m$,default,
 Luiseno-117_what-1,5509,Luiseno,117_what,hī̱tˢɑ,hī̱tˢɑ,h ī̠/iː tˢ/ts ɑ,,Miller1984,117_what-4,false,^h ī̱ tˢ ɑ$,default,
 Luiseno-117_what-2,4183,Luiseno,117_what,hiʃ,hiʃ,h i ʃ,,Miller1984,117_what-4,false,^h i ʃ$,default,
@@ -1181,12 +1181,12 @@ Papago-116_we-1,4165,Papago,116_we,ɑ̄tˢim,ɑ̄tˢim,ɑ̄/aː tˢ/ts i m,,Mill
 Papago-117_what-1,4200,Papago,117_what,hɑb,hɑb,h ɑ b,,Miller1984,117_what-7,false,^h ɑ b$,default,
 Papago-118_who-1,4235,Papago,118_who,hɯɖɑi,hɯɖɑi,h ɯ ɖ/ð ɑi,,Miller1984,118_who-8,false,^h ɯ ɖ ɑi$,default,
 Papago-119_this-1,5539,Papago,119_this,īdɑ,īdɑ,ī/iː d ɑ,,Miller1984,119_this-3,false,^ī d ɑ$,default,
-Papago-119_this-2,5540,Papago,119_this,īdʔɑ,īdʔɑ,ī/iː d ʔ ɑ,,Miller1984,119_this-3,false,^ī d ʔ ɑ$,default,
+Papago-119_this-2,5540,Papago,119_this,īdʔɑ,īdʔɑ,ī/iː dˀ ɑ,,Miller1984,119_this-3,false,^ī dʔ ɑ$,default,
 Papago-119_this-3,5541,Papago,119_this,id,id,i d,,Miller1984,119_this-3,false,^i d$,default,
 Papago-119_this-4,4270,Papago,119_this,īdɑʔɑ,īdɑʔɑ,ī/iː d ɑ ʔ ɑ,,Miller1984,119_this-3,false,^ī d ɑ ʔ ɑ$,default,
-Papago-120_that-1,5576,Papago,120_that,hɯgʔɑi,hɯgʔɑi,h ɯ g ʔ ɑi,,Miller1984,120_that-14,false,^h ɯ g ʔ ɑi$,default,
+Papago-120_that-1,5576,Papago,120_that,hɯgʔɑi,hɯgʔɑi,h ɯ gˀ ɑi,,Miller1984,120_that-14,false,^h ɯ gʔ ɑi$,default,
 Papago-120_that-2,5577,Papago,120_that,hɯgi,hɯgi,h ɯ g i,,Miller1984,120_that-14,false,^h ɯ g i$,default,
-Papago-120_that-3,5578,Papago,120_that,hɯgʔi,hɯgʔi,h ɯ g ʔ i,,Miller1984,120_that-14,false,^h ɯ g ʔ i$,default,
+Papago-120_that-3,5578,Papago,120_that,hɯgʔi,hɯgʔi,h ɯ gˀ i,,Miller1984,120_that-14,false,^h ɯ gʔ i$,default,
 Papago-120_that-4,5579,Papago,120_that,hɯg,hɯg,h ɯ g,,Miller1984,120_that-14,false,^h ɯ g$,default,
 Papago-120_that-5,4305,Papago,120_that,hɯgɑʔi,hɯgɑʔi,h ɯ g ɑ ʔ i,,Miller1984,120_that-14,false,^h ɯ g ɑ ʔ i$,default,
 Papago-121_all-1,5593,Papago,121_all,wɯ̄s,wɯ̄s,w ɯ̄/ɯ s,,Miller1984,121_all-19,false,^w ɯ̄ s$,default,
@@ -1959,7 +1959,7 @@ Guarijio-20_woman-1,630,Guarijio,20_woman,oérume,oérume,o é/e r u m e,,Miller
 Guarijio-21_man-1,662,Guarijio,21_man,tihoé,tihoé,t i h o é/e,,Miller1984,21_man-5,false,^t i h o é$,default,JHH: OK
 Guarijio-22_person-1,694,Guarijio,22_person,ihpakórume,ihpakórume,i h p a k ó/o r u m e,,Miller1984,22_person-5,false,^i h p a k ó r u m e$,default,
 Guarijio-23_fish-1,726,Guarijio,23_fish,soʔcí,soʔcí,s o ˀtʃ í/i,,Miller1984,23_fish-5,false,^s o ʔc í$,default,
-Guarijio-24_bird-1,758,Guarijio,24_bird,cuʔrukí,cuʔrukí,ts u ʔ r u k í/i,,Miller1984,24_bird-6,false,^c u ʔ r u k í$,default,"JHH: 7 is closer than 4 for this, or perhaps a separate set?"
+Guarijio-24_bird-1,758,Guarijio,24_bird,cuʔrukí,cuʔrukí,ts u ˀr u k í/i,,Miller1984,24_bird-6,false,^c u ʔr u k í$,default,"JHH: 7 is closer than 4 for this, or perhaps a separate set?"
 Guarijio-25_dog-1,790,Guarijio,25_dog,cuhcúri,cuhcúri,ts u h ts ú/u r i,,Miller1984,25_dog-7,false,^c u h c ú r i$,default,
 Guarijio-26_louse-1,822,Guarijio,26_louse,ehté,ehté,e h t é/e,,Miller1984,26_louse-2,false,^e h t é$,default,
 Guarijio-27_snake-1,854,Guarijio,27_snake,sinoí,sinoí,s i n oí/oi,,Miller1984,27_snake-3,false,^s i n oí$,default,
@@ -1969,14 +1969,14 @@ Guarijio-30_leaf-1,949,Guarijio,30_leaf,sawá,sawá,s a w á/a,,Miller1984,30_le
 Guarijio-31_root-1,981,Guarijio,31_root,nawá,nawá,n a w á/a,,Miller1984,31_root-2,false,^n a w á$,default,
 Guarijio-32_seed-1,1013,Guarijio,32_seed,pahcí,pahcí,p a h ts í/i,,Miller1984,32_seed-4,false,^p a h c í$,default,
 Guarijio-33_blood-1,1045,Guarijio,33_blood,elá,elá,e l á/a,,Miller1984,33_blood-5,false,^e l á$,default,
-Guarijio-34_meat-1,1077,Guarijio,34_meat,saʔpá,saʔpá,s a ʔ p á/a,,Miller1984,34_meat-3,false,^s a ʔ p á$,default,
+Guarijio-34_meat-1,1077,Guarijio,34_meat,saʔpá,saʔpá,s a ʔp á/a,,Miller1984,34_meat-3,false,^s a ʔp á$,default,
 Guarijio-35_skin-1,1109,Guarijio,35_skin,wiʔci,wiʔci,w i ˀtʃ i,,Miller1984,35_skin-6,false,^w i ʔc i$,default,JHH: -ci is suffix
 Guarijio-36_bone-1,1141,Guarijio,36_bone,oʔá,oʔá,o ʔ á/a,,Miller1984,36_bone-1,false,^o ʔ á$,default,
 Guarijio-37_greasefat-1,1173,Guarijio,37_greasefat,wiʔí,wiʔí,w i ʔ í/i,,Miller1984,37_greasefat-2,false,^w i ʔ í$,default,
 Guarijio-38_egg-1,1205,Guarijio,38_egg,kaʔwá,kaʔwá,k a ˀw á/a,,Miller1984,38_egg-3,false,^k a ʔw á$,default,
 Guarijio-39_horn-1,1237,Guarijio,39_horn,awá,awá,a w á/a,,Miller1984,39_horn-1,false,^a w á$,default,
 Guarijio-40_tail-1,1269,Guarijio,40_tail,wahsí,wahsí,w a h s í/i,,Miller1984,40_tail-1,false,^w a hs í$,default,
-Guarijio-41_feather-1,1301,Guarijio,41_feather,maʔsá,maʔsá,m a ʔ s á/a,,Miller1984,41_feather-5,false,^m a ʔs á$,default,
+Guarijio-41_feather-1,1301,Guarijio,41_feather,maʔsá,maʔsá,m a ˀs á/a,,Miller1984,41_feather-5,false,^m a ʔs á$,default,
 Guarijio-42_hair-1,1333,Guarijio,42_hair,kupá,kupá,k u p á/a,,Miller1984,42_hair-2,false,^k u p á$,default,
 Guarijio-43_head-1,1365,Guarijio,43_head,moʔó,moʔó,m o ʔ ó/o,,Miller1984,43_head-6,false,^m o ʔ ó$,default,
 Guarijio-44_ear-1,1397,Guarijio,44_ear,nahká,nahká,n a ʰk á/a,,Miller1984,44_ear-1,false,^n a hk á$,default,
@@ -2007,7 +2007,7 @@ Guarijio-68_know-1,2151,Guarijio,68_know,maci-,maci-,m a ts i,,Miller1984,68_kno
 Guarijio-69_sleep-1,2183,Guarijio,69_sleep,koci-,koci-,k o ts i,,Miller1984,69_sleep-3,false,^k o c i -$,default,
 Guarijio-70_die-1,2215,Guarijio,70_die,mugúi-,mugúi-,m u g ú/u i,,Miller1984,70_die-2,false,^m u g ú i -$,default,
 Guarijio-71_kill-1,2247,Guarijio,71_kill,meʔá-,meʔá-,m e ʔ á/a,,Miller1984,71_kill-3,false,^m e ʔ á -$,default,
-Guarijio-71_kill-2,5248,Guarijio,71_kill,meʔri-,meʔri-,m e ʔ r i,,Miller1984,71_kill-3,false,^m e ʔ r i -$,default,
+Guarijio-71_kill-2,5248,Guarijio,71_kill,meʔri-,meʔri-,m e ˀr i,,Miller1984,71_kill-3,false,^m e ʔr i -$,default,
 Guarijio-72_fly-1,2279,Guarijio,72_fly,niʔni-,niʔni-,n i ˀn i,,Miller1984,72_fly-6,false,^n i ʔn i -$,default,
 Guarijio-73_walk-1,2311,Guarijio,73_walk,oi-,oi-,oi,,Miller1984,73_walk-4,false,^oi -$,default,
 Guarijio-74_come-1,2343,Guarijio,74_come,ená,ená,e n á/a,,Miller1984,74_come-11,false,^e n á$,default,
@@ -2023,7 +2023,7 @@ Guarijio-80_say-2,5316,Guarijio,80_say,ce-,ce-,ts e,,Miller1984,80_say-5,false,^
 Guarijio-81_sing-1,2567,Guarijio,81_sing,wigatá-,wigatá-,w i g a t á/a,,Miller1984,81_sing-6,false,^w i g a t á -$,default,
 Guarijio-82_sun-1,2599,Guarijio,82_sun,tahénari,tahénari,t a h é/e n a r i,,Miller1984,82_sun-6,false,^t a h é n a r i$,default,
 Guarijio-83_moon-1,2631,Guarijio,83_moon,mecá,mecá,m e ts á/a,,Miller1984,83_moon-1,false,^m e c á$,default,
-Guarijio-84_star-1,2663,Guarijio,84_star,soʔpóri,soʔpóri,s o ʔ p ó/o r i,,Miller1984,84_star-10,false,^s o ʔ p ó r i$,default,
+Guarijio-84_star-1,2663,Guarijio,84_star,soʔpóri,soʔpóri,s o ʔp ó/o r i,,Miller1984,84_star-10,false,^s o ʔp ó r i$,default,
 Guarijio-85_sky-1,2695,Guarijio,85_sky,teweká,teweká,t e w e k á/a,,Miller1984,85_sky-3,false,^t e w e k á$,default,
 Guarijio-86_water-1,2727,Guarijio,86_water,paʔwí,paʔwí,p a ˀw í/i,,Miller1984,86_water-1,false,^p a ʔw í$,default,
 Guarijio-87_wind-1,2759,Guarijio,87_wind,ega-,ega-,e g a,,Miller1984,87_wind-1,false,^e g a -$,default,
@@ -2065,13 +2065,13 @@ Tarahumara-1_nonot-1,23,Tarahumara,1_nonot,ké,ké,k é/e,,Miller1984,1_nonot-1,
 Tarahumara-2_many-1,55,Tarahumara,2_many,weká,weká,w e k á/a,,Miller1984,2_many-5,false,^w e k á$,default,
 Tarahumara-3_one-1,87,Tarahumara,3_one,bilé,bilé,b i l é/e,,Miller1984,3_one-2,false,^b i l é$,default,
 Tarahumara-4_two-1,119,Tarahumara,4_two,okwá,okwá,o kʷ á/a,,Miller1984,4_two-1,false,^o kw á$,default,JHH: I think (1) is good.
-Tarahumara-5_big-1,151,Tarahumara,5_big,waʔlú,waʔlú,w a ʔ l ú/u,,Miller1984,5_big-5,false,^w a ʔ l ú$,default,
+Tarahumara-5_big-1,151,Tarahumara,5_big,waʔlú,waʔlú,w a ˀl ú/u,,Miller1984,5_big-5,false,^w a ʔl ú$,default,
 Tarahumara-6_old-1,183,Tarahumara,6_old,océra-me,océra-me,o ts é/e r a + m e,,Miller1984,6_old-9,false,^o c é r a - m e$,default,
-Tarahumara-7_small-1,215,Tarahumara,7_small,kuʔtá,kuʔtá,k u ʔ t á/a,,Miller1984,7_small-8,false,^k u ʔ t á$,default,
-Tarahumara-8_short-1,247,Tarahumara,8_short,kuʔtéli,kuʔtéli,k u ʔ t é/e l i,,Miller1984,8_short-8,false,^k u ʔ t é l i$,default,
-Tarahumara-9_long-1,279,Tarahumara,9_long,wiʔlí,wiʔlí,w i ʔ l í/i,,Miller1984,9_long-6,false,^w i ʔ l í$,default,
+Tarahumara-7_small-1,215,Tarahumara,7_small,kuʔtá,kuʔtá,k u ˀt á/a,,Miller1984,7_small-8,false,^k u ʔt á$,default,
+Tarahumara-8_short-1,247,Tarahumara,8_short,kuʔtéli,kuʔtéli,k u ˀt é/e l i,,Miller1984,8_short-8,false,^k u ʔt é l i$,default,
+Tarahumara-9_long-1,279,Tarahumara,9_long,wiʔlí,wiʔlí,w i ˀl í/i,,Miller1984,9_long-6,false,^w i ʔl í$,default,
 Tarahumara-10_new-1,311,Tarahumara,10_new,kukiwa-me,kukiwa-me,k u k i w a + m e,,Miller1984,10_new-13,false,^k u k i w a - m e$,default,
-Tarahumara-11_good-1,343,Tarahumara,11_good,gaʔrá,gaʔrá,g a ʔ r á/a,,Miller1984,11_good-4,false,^g a ʔ r á$,default,
+Tarahumara-11_good-1,343,Tarahumara,11_good,gaʔrá,gaʔrá,g a ˀr á/a,,Miller1984,11_good-4,false,^g a ʔr á$,default,
 Tarahumara-12_round-1,375,Tarahumara,12_round,gapó,gapó,g a p ó/o,,Miller1984,12_round-14,false,^g a p ó$,default,=become ball-shaped
 Tarahumara-13_heavy-1,407,Tarahumara,13_heavy,beté-ame,beté-ame,b e t é/e + a m e,,Miller1984,13_heavy-2,false,^b e t é - a m e$,default,
 Tarahumara-14_dry-1,439,Tarahumara,14_dry,wakí,wakí,w a k í/i,,Miller1984,14_dry-2,false,^w a k í$,default,=sacarse
@@ -2095,14 +2095,14 @@ Tarahumara-30_leaf-1,950,Tarahumara,30_leaf,sawá,sawá,s a w á/a,,Miller1984,3
 Tarahumara-31_root-1,982,Tarahumara,31_root,nawá,nawá,n a w á/a,,Miller1984,31_root-2,false,^n a w á$,default,
 Tarahumara-32_seed-1,1014,Tarahumara,32_seed,talí,talí,t a l í/i,,Miller1984,32_seed-8,false,^t a l í$,default,
 Tarahumara-33_blood-1,1046,Tarahumara,33_blood,lá,lá,l á/a,,Miller1984,33_blood-5,false,^l á$,default,
-Tarahumara-34_meat-1,1078,Tarahumara,34_meat,saʔpá,saʔpá,s a ʔ p á/a,,Miller1984,34_meat-3,false,^s a ʔ p á$,default,
+Tarahumara-34_meat-1,1078,Tarahumara,34_meat,saʔpá,saʔpá,s a ʔp á/a,,Miller1984,34_meat-3,false,^s a ʔp á$,default,
 Tarahumara-35_skin-1,1110,Tarahumara,35_skin,wičí,wičí,w i tʃ í/i,,Miller1984,35_skin-6,false,^w i č í$,default,JHH: -chi is suffix
-Tarahumara-36_bone-1,1142,Tarahumara,36_bone,oʔčí,oʔčí,o ʔ tʃ í/i,,Miller1984,36_bone-1,false,^o ʔ č í$,default,
+Tarahumara-36_bone-1,1142,Tarahumara,36_bone,oʔčí,oʔčí,o ˀtʃ í/i,,Miller1984,36_bone-1,false,^o ʔč í$,default,
 Tarahumara-37_greasefat-1,1174,Tarahumara,37_greasefat,wiʔí,wiʔí,w i ʔ í/i,,Miller1984,37_greasefat-2,false,^w i ʔ í$,default,
 Tarahumara-38_egg-1,1206,Tarahumara,38_egg,kaʔwá,kaʔwá,k a ˀw á/a,,Miller1984,38_egg-3,false,^k a ʔw á$,default,
 Tarahumara-39_horn-1,1238,Tarahumara,39_horn,awá,awá,a w á/a,,Miller1984,39_horn-1,false,^a w á$,default,
 Tarahumara-40_tail-1,1270,Tarahumara,40_tail,wasí,wasí,w a s í/i,,Miller1984,40_tail-1,false,^w a s í$,default,
-Tarahumara-41_feather-1,1302,Tarahumara,41_feather,maʔsá,maʔsá,m a ʔ s á/a,,Miller1984,41_feather-5,false,^m a ʔs á$,default,
+Tarahumara-41_feather-1,1302,Tarahumara,41_feather,maʔsá,maʔsá,m a ˀs á/a,,Miller1984,41_feather-5,false,^m a ʔs á$,default,
 Tarahumara-42_hair-1,1334,Tarahumara,42_hair,gupá,gupá,g u p á/a,,Miller1984,42_hair-2,false,^g u p á$,default,
 Tarahumara-43_head-1,1366,Tarahumara,43_head,moʔó,moʔó,m o ʔ ó/o,,Miller1984,43_head-6,false,^m o ʔ ó$,default,
 Tarahumara-44_ear-1,1398,Tarahumara,44_ear,naká,naká,n a k á/a,,Miller1984,44_ear-1,false,^n a k á$,default,
@@ -2137,7 +2137,7 @@ Tarahumara-68_know-1,2152,Tarahumara,68_know,mačí,mačí,m a tʃ í/i,,Miller1
 Tarahumara-69_sleep-1,2184,Tarahumara,69_sleep,gočí-,gočí-,g o tʃ í/i,,Miller1984,69_sleep-3,false,^g o č í -$,default,
 Tarahumara-70_die-1,2216,Tarahumara,70_die,mukú,mukú,m u k ú/u,,Miller1984,70_die-2,false,^m u k ú$,default,
 Tarahumara-71_kill-1,2248,Tarahumara,71_kill,meʔá-,meʔá-,m e ʔ á/a,,Miller1984,71_kill-3,false,^m e ʔ á -$,default,
-Tarahumara-71_kill-2,5249,Tarahumara,71_kill,miʔli-,miʔli-,m i ʔ l i,,Miller1984,71_kill-3,false,^m i ʔ l i -$,default,
+Tarahumara-71_kill-2,5249,Tarahumara,71_kill,miʔli-,miʔli-,m i ˀl i,,Miller1984,71_kill-3,false,^m i ʔl i -$,default,
 Tarahumara-72_fly-1,2280,Tarahumara,72_fly,iʔní,iʔní,i ˀn í/i,,Miller1984,72_fly-6,false,^i ʔn í$,default,
 Tarahumara-73_walk-1,2312,Tarahumara,73_walk,eʔyéna,eʔyéna,e ʔy/ˀj é/e n a,,Miller1984,73_walk-12,false,^e ʔy é n a$,default,
 Tarahumara-74_come-1,2344,Tarahumara,74_come,nolína,nolína,n o l í/i n a,,Miller1984,74_come-12,false,^n o l í n a$,default,
@@ -2145,7 +2145,7 @@ Tarahumara-75_lie-1,2376,Tarahumara,75_lie,boʔí,boʔí,b o ʔ í/i,,Miller1984
 Tarahumara-76_sitsitdown-1,2408,Tarahumara,76_sitsitdown,asá/í,asá,a s á/a,,Miller1984,76_sitsitdown-2,false,^a s á$,default,
 Tarahumara-76_sitsitdown-2,2408,Tarahumara,76_sitsitdown,asá/í,í,í/i,,Miller1984,76_sitsitdown-2,false,^í$,default,
 Tarahumara-77_standup-1,2440,Tarahumara,77_standup,wilí,wilí,w i l í/i,,Miller1984,77_standup-1,false,^w i l í$,default,
-Tarahumara-78_throw-1,2472,Tarahumara,78_throw,oʔtá/í,oʔtá,o ʔ t á/a,,Miller1984,78_throw-15,false,^o ʔ t á$,default,
+Tarahumara-78_throw-1,2472,Tarahumara,78_throw,oʔtá/í,oʔtá,o ˀt á/a,,Miller1984,78_throw-15,false,^o ʔt á$,default,
 Tarahumara-78_throw-2,2472,Tarahumara,78_throw,oʔtá/í,í,í/i,,Miller1984,78_throw-15,false,^í$,default,
 Tarahumara-79_give-1,2504,Tarahumara,79_give,yá,yá,y/j á,,Miller1984,79_give-1,false,^yá$,default,
 Tarahumara-80_say-1,2536,Tarahumara,80_say,čaní,čaní,tʃ a n í/i,,Miller1984,80_say-5,false,^č a n í$,default,
@@ -2153,8 +2153,8 @@ Tarahumara-81_sing-1,2568,Tarahumara,81_sing,nawahí,nawahí,n a w a h í/i,,Mil
 Tarahumara-81_sing-2,5320,Tarahumara,81_sing,wikará,wikará,w i k a r á/a,,Lionnet1986,81_sing-6,false,^w i k a r á$,default,=sing
 Tarahumara-82_sun-1,2600,Tarahumara,82_sun,rayénali,rayénali,r ay/ai é/e n a l i,,Miller1984,82_sun-6,false,^r ay é n a l i$,default,
 Tarahumara-83_moon-1,2632,Tarahumara,83_moon,mečá,mečá,m e tʃ á/a,,Miller1984,83_moon-1,false,^m e č á$,default,
-Tarahumara-84_star-1,2664,Tarahumara,84_star,seʔpolí,seʔpolí,s e ʔ p o l í/i,,Miller1984,84_star-10,false,^s e ʔ p o l í$,default,
-Tarahumara-85_sky-1,2696,Tarahumara,85_sky,seʔpolɨtali,seʔpolɨtali,s e ʔ p o l ɨ t a l i,,Miller1984,85_sky-3,false,^s e ʔ p o l ɨ t a l i$,default,"(""star-tali"")"
+Tarahumara-84_star-1,2664,Tarahumara,84_star,seʔpolí,seʔpolí,s e ʔp o l í/i,,Miller1984,84_star-10,false,^s e ʔp o l í$,default,
+Tarahumara-85_sky-1,2696,Tarahumara,85_sky,seʔpolɨtali,seʔpolɨtali,s e ʔp o l ɨ t a l i,,Miller1984,85_sky-3,false,^s e ʔp o l ɨ t a l i$,default,"(""star-tali"")"
 Tarahumara-85_sky-2,5333,Tarahumara,85_sky,riwigáči,riwigáči,r i w i g á/a tʃ i,,Hilton1959,,false,^r i w i g á č i$,default,
 Tarahumara-86_water-1,2728,Tarahumara,86_water,baʔwí,baʔwí,b a ˀw í/i,,Miller1984,86_water-1,false,^b a ʔw í$,default,
 Tarahumara-87_wind-1,2760,Tarahumara,87_wind,eká,eká,e k á/a,,Miller1984,87_wind-1,false,^e k á$,default,
@@ -2945,7 +2945,7 @@ ClassicalAztec-22_person-1,701,ClassicalAztec,22_person,tlaaka-tl,tlaaka-tl,t l 
 ClassicalAztec-23_fish-1,733,ClassicalAztec,23_fish,mič-in,mič-in,m i tʃ + i n,,Miller1984,23_fish-6,false,^m i č - i n$,default,
 ClassicalAztec-24_bird-1,765,ClassicalAztec,24_bird,tootoo-tl,tootoo-tl,t oː t oː + t l,,Miller1984,24_bird-7,false,^t oo t oo - t l$,default,
 ClassicalAztec-25_dog-1,797,ClassicalAztec,25_dog,čiičii,čiičii,tʃ iː tʃ iː,,Miller1984,25_dog-7,false,^č ii č ii$,default,
-ClassicalAztec-26_louse-1,829,ClassicalAztec,26_louse,aʔte-ni-tl,aʔte-ni-tl,a ʔ t e + n i + t l,,Miller1984,26_louse-2,false,^a ʔ t e - n i - t l$,default,
+ClassicalAztec-26_louse-1,829,ClassicalAztec,26_louse,aʔte-ni-tl,aʔte-ni-tl,a ˀt e + n i + t l,,Miller1984,26_louse-2,false,^a ʔt e - n i - t l$,default,
 ClassicalAztec-26_louse-2,6023,ClassicalAztec,26_louse,atemitl,atemitl,a t e m i t l,,Campbell1978,26_louse-2,false,^a t e m i t l$,default,
 ClassicalAztec-27_snake-1,861,ClassicalAztec,27_snake,koow-aa-tl,koow-aa-tl,k oː w + aː + t l,,Miller1984,27_snake-1,false,^k oo w - aa - t l$,default,"JHH: Note that this is same as Numic koa -- Numic have /to-/ from *tyN- ""rock"", I think."
 ClassicalAztec-28_tree-1,893,ClassicalAztec,28_tree,kwawi-tl,kwawi-tl,kʷ a w i + t l,,Miller1984,28_tree-6,false,^kw a w i - t l$,default,
@@ -2981,7 +2981,7 @@ ClassicalAztec-52_knee-1,1659,ClassicalAztec,52_knee,tlan-kwaai-tl,tlan-kwaai-tl
 ClassicalAztec-53_hand-1,1691,ClassicalAztec,53_hand,maai-tl,maai-tl,m aːi + t l,,Miller1984,53_hand-1,false,^m aai - t l$,default,
 ClassicalAztec-54_arm-1,1723,ClassicalAztec,54_arm,maai-tl,maai-tl,m aːi + t l,,Miller1984,54_arm-2,false,^m aai - t l$,default,(=#53)
 ClassicalAztec-55_rope-1,3470,ClassicalAztec,55_rope,mekaa-tl,mekaa-tl,m e k aː + t l,,Miller1984,55_rope-7,false,^m e k aa - t l$,default,
-ClassicalAztec-56_belly-1,1774,ClassicalAztec,56_belly,iʔte-tl,iʔte-tl,i ʔ t e + t l,,Miller1984,56_belly-7,false,^i ʔ t e - t l$,default,
+ClassicalAztec-56_belly-1,1774,ClassicalAztec,56_belly,iʔte-tl,iʔte-tl,i ˀt e + t l,,Miller1984,56_belly-7,false,^i ʔt e - t l$,default,
 ClassicalAztec-57_navelbellybutton-1,1806,ClassicalAztec,57_navelbellybutton,šiik-tli,šiik-tli,ʃ iː k + t l i,,Miller1984,57_navelbellybutton-2,false,^š ii k - t l i$,default,
 ClassicalAztec-58_neck-1,1838,ClassicalAztec,58_neck,kweč-tli,kweč-tli,kʷ e tʃ + t l i,,Miller1984,58_neck-6,false,^kw e č - t l i$,default,"JHH: This really is not cognate with other Aztecan.  Might go with ""1"" but would take a lot of work to test."
 ClassicalAztec-59_breast-1,1870,ClassicalAztec,59_breast,čičiwal-li,čičiwal-li,tʃ i tʃ i w a l + l i,,Miller1984,59_breast-2,false,^č i č i w a l - l i$,default,
@@ -3010,7 +3010,7 @@ ClassicalAztec-77_standup-1,2446,ClassicalAztec,77_standup,iʔkaa-c,iʔkaa-c,i �
 ClassicalAztec-78_throw-1,2478,ClassicalAztec,78_throw,tlaasa,tlaasa,t l aː s a,,Miller1984,78_throw-19,false,^t l aa s a$,default,
 ClassicalAztec-78_throw-2,6038,ClassicalAztec,78_throw,mootla,mootla,m oː t l a,,Campbell1978,78_throw-20,false,^m oo t l a$,default,
 ClassicalAztec-79_give-1,2510,ClassicalAztec,79_give,maka,maka,m a k a,,Miller1984,79_give-3,false,^m a k a$,default,
-ClassicalAztec-80_say-1,2542,ClassicalAztec,80_say,iʔt-ooa,iʔt-ooa,i ʔ t + oː a,,Miller1984,80_say-7,false,^i ʔ t - ooa$,default,
+ClassicalAztec-80_say-1,2542,ClassicalAztec,80_say,iʔt-ooa,iʔt-ooa,i ˀt + oː a,,Miller1984,80_say-7,false,^i ʔt - ooa$,default,
 ClassicalAztec-81_sing-1,2574,ClassicalAztec,81_sing,kwiika,kwiika,kʷ iː k a,,Miller1984,81_sing-6,false,^kw ii k a$,default,
 ClassicalAztec-82_sun-1,2606,ClassicalAztec,82_sun,toona-tiu,toona-tiu,t oː n a + t i u,,Miller1984,82_sun-2,false,^t oo n a - t iu$,default,
 ClassicalAztec-83_moon-1,2638,ClassicalAztec,83_moon,meec-tli,meec-tli,m eː ts + t l i,,Miller1984,83_moon-1,false,^m ee c - t l i$,default,
@@ -3612,7 +3612,7 @@ SoutheasternTepehuan-3_one-1,3478,SoutheasternTepehuan,3_one,ma'n,ma'n,m a n,,Mi
 SoutheasternTepehuan-4_two-1,3479,SoutheasternTepehuan,4_two,jumai,jumai,j/dʒ u m ai,,Miller1984,4_two-5,false,^j u m ai$,default,"JHH: NOT the same thing as (1).  IN fact, looks like a mistake, possibly means ""one""???."
 SoutheasternTepehuan-5_big-1,3480,SoutheasternTepehuan,5_big,gë',gë',g ë/ə ʔ,,Miller1984,5_big-5,false,^g ë '$,default,
 SoutheasternTepehuan-6_old-1,3481,SoutheasternTepehuan,6_old,jagɨt',jagɨt',j/dʒ a g ɨ tˀ,,Miller1984,6_old-20,false,^j a g ɨ t' $,default,
-SoutheasternTepehuan-7_small-1,3482,SoutheasternTepehuan,7_small,ɨlhi'ch,ɨlhi'ch,ɨ lh/l̥ i '/ʔ ch/ts,,Miller1984,7_small-16,false,^ɨ lh i 'ch$,default,
+SoutheasternTepehuan-7_small-1,3482,SoutheasternTepehuan,7_small,ɨlhi'ch,ɨlhi'ch,ɨ lh/l̥ i ˀtʃ,,Miller1984,7_small-16,false,^ɨ lh i 'ch$,default,
 SoutheasternTepehuan-8_short-1,3483,SoutheasternTepehuan,8_short,dumaalh,dumaalh,d u m aː lh/l̥,,Miller1984,8_short-11,false,^d u m aa lh$,default,
 SoutheasternTepehuan-9_long-1,3484,SoutheasternTepehuan,9_long,tëb,tëb,t ë/ə b,,Miller1984,9_long-5,false,^t ë b$,default,
 SoutheasternTepehuan-10_new-1,3485,SoutheasternTepehuan,10_new,xibkam,xibkam,x i b k a m,,Miller1984,10_new-14,false,^x i b k a m$,default,
@@ -3690,7 +3690,7 @@ SoutheasternTepehuan-80_say-1,3555,SoutheasternTepehuan,80_say,tɨi'ya',tɨi'ya'
 SoutheasternTepehuan-81_sing-1,3556,SoutheasternTepehuan,81_sing,kantaru',kantaru',k a n t a r u ʔ,,Miller1984,,true,^k a n t a r u '$,default,from Spanish
 SoutheasternTepehuan-82_sun-1,3557,SoutheasternTepehuan,82_sun,chat,chat,ch/tʃ a t,,Miller1984,82_sun-5,false,^ch a t$,default,
 SoutheasternTepehuan-83_moon-1,3558,SoutheasternTepehuan,83_moon,masa'n,masa'n,m a s a n,,Miller1984,83_moon-1,false,^m a s a 'n$,default,
-SoutheasternTepehuan-84_star-1,3559,SoutheasternTepehuan,84_star,chɨ't',chɨ't',ch/tʃ ɨ t ʔ,,Miller1984,84_star-11,false,^ch ɨ 't '$,default,
+SoutheasternTepehuan-84_star-1,3559,SoutheasternTepehuan,84_star,chɨ't',chɨ't',ch/tʃ ɨ tˀ,,Miller1984,84_star-11,false,^ch ɨ 't' $,default,
 SoutheasternTepehuan-85_sky-1,3560,SoutheasternTepehuan,85_sky,dham,dham,dʱ a m,,Miller1984,85_sky-2,false,^dh a m$,default,
 SoutheasternTepehuan-86_water-1,3561,SoutheasternTepehuan,86_water,suudai',suudai',s uː d ai ʔ,,Miller1984,,true,^s uu d ai '$,default,
 SoutheasternTepehuan-87_wind-1,3562,SoutheasternTepehuan,87_wind,jɨbɨlh,jɨbɨlh,j/dʒ ɨ b ɨ lh/l̥,,Miller1984,87_wind-3,false,^j ɨ b ɨ lh$,default,
@@ -3719,7 +3719,7 @@ SoutheasternTepehuan-111_four-1,3758,SoutheasternTepehuan,111_four,maakov,maakov
 SoutheasternTepehuan-112_five-1,3792,SoutheasternTepehuan,112_five,hiš-čamaam,hiš-čamaam,h i ʃ + tʃ a m aː m,,Miller1984,112_five-9,false,^h i š - č a m aa m$,default,
 SoutheasternTepehuan-113_six-1,3826,SoutheasternTepehuan,113_six,hiš-umman,hiš-umman,h i ʃ + u mː a n,,Miller1984,113_six-9,false,^h i š - u mm a n$,default,
 SoutheasternTepehuan-117_what-1,4203,SoutheasternTepehuan,117_what,tu7,tu7,t u 7/ʔ,,Miller1984,117_what-9,false,^t u 7$,default,
-SoutheasternTepehuan-119_this-1,4273,SoutheasternTepehuan,119_this,dyi7,dyi7,d y/j i 7/ʔ,,Miller1984,119_this-9,false,^d yi 7$,default,
+SoutheasternTepehuan-119_this-1,4273,SoutheasternTepehuan,119_this,dyi7,dyi7,d y/j i 7/ʔ,,Miller1984,119_this-9,false,^dy i 7$,default,
 SoutheasternTepehuan-120_that-1,4308,SoutheasternTepehuan,120_that,gwi7,gwi7,g w i 7/ʔ,,Miller1984,120_that-19,false,^gw i 7$,default,
 SoutheasternTepehuan-121_all-1,4343,SoutheasternTepehuan,121_all,vɯʃ,vɯʃ,v ɯ ʃ,,Miller1984,121_all-19,false,^v ɯ ʃ$,default,
 Kitanemuk-1_nonot-1,3646,Kitanemuk,1_nonot,naw,naw,n a w,,Miller1984,1_nonot-9,false,^n a w$,default,???  Eng?
@@ -3728,7 +3728,7 @@ Kitanemuk-3_one-1,3649,Kitanemuk,3_one,hawkup,hawkup,h a w k u p,,Hill2010,3_one
 Kitanemuk-4_two-1,3681,Kitanemuk,4_two,woh,woh,w o h,,Hill2010,4_two-1,false,^w o h$,default,UA
 Kitanemuk-5_big-1,3588,Kitanemuk,5_big,7aty7a,7aty7a,7/ʔ a tʲˀ a,,Hill2010,5_big-8,false,^7 a ty7 a$,default,"S 1005 ""good"", Cupan, SP, CU"
 Kitanemuk-6_old-1,3648,Kitanemuk,6_old,7uvihat,7uvihat,7/ʔ u v i h a t,,Miller1984,6_old-11,false,^7 u v i h a t$,default,"""very old person"""
-Kitanemuk-7_small-1,3668,Kitanemuk,7_small,7anu7si7,7anu7si7,7/ʔ a n u 7/ʔ s i 7/ʔ,,Miller1984,7_small-16,false,^7 a n u 7 s i 7$,default,UA
+Kitanemuk-7_small-1,3668,Kitanemuk,7_small,7anu7si7,7anu7si7,7/ʔ a n u ˀs i 7/ʔ,,Miller1984,7_small-16,false,^7 a n u 7s i 7$,default,UA
 Kitanemuk-8_short-1,3662,Kitanemuk,8_short,pemisa7i7,pemisa7i7,p e m i s a 7/ʔ i 7/ʔ,,Miller1984,,false,^p e m i s a 7 i 7$,default,"?maybe S 1323 *mi7a ""small?"
 Kitanemuk-9_long-1,3633,Kitanemuk,9_long,meta7y7,meta7y7,m e t a ʔ y ʔ,,Miller1984,9_long-7,false,^m e t a 7y7 $,default,OK JHH
 Kitanemuk-10_new-1,3644,Kitanemuk,10_new,7amajt,7amajt,7/ʔ a m a j/dʒ t,,Miller1984,10_new-6,false,^7 a m a j t$,default,"S1480 Sr,Gb,Lu bvowels?"
@@ -3839,7 +3839,7 @@ Kitanemuk-91_sand-2,5451,Kitanemuk,91_sand,jyrumach,jyrumach,j/dʒ y r u m a ch/
 Kitanemuk-92_earth-1,3606,Kitanemuk,92_earth,tyvach,tyvach,t y v a ch/tʃ,,Miller1984,92_earth-1,false,^t y v a ch$,default,UA
 Kitanemuk-93_salt-1,3656,Kitanemuk,93_salt,hjavit,hjavit,h j/dʒ a v i t,,Miller1984,93_salt-5,false,^h j a v i t$,default,"?? Not Yokuts, Not Chumash"
 Kitanemuk-94_cloud-1,3597,Kitanemuk,94_cloud,wongat,wongat,w o n g a t,,Miller1984,94_cloud-3,false,^w o n g a t$,default,"Takic only, see ""rain"""
-Kitanemuk-95_smoke-1,3669,Kitanemuk,95_smoke,mwa7t,mwa7t,m w a 7/ʔ t,,Miller1984,95_smoke-2,false,^mw a 7 t$,default,UA
+Kitanemuk-95_smoke-1,3669,Kitanemuk,95_smoke,mwa7t,mwa7t,m w a ˀt,,Miller1984,95_smoke-2,false,^mw a 7t $,default,UA
 Kitanemuk-96_fire-1,3611,Kitanemuk,96_fire,kut,kut,k u t,,Hill2010,96_fire-2,false,^k u t$,default,UA
 Kitanemuk-97_ash-1,3584,Kitanemuk,97_ash,kukut,kukut,k u k u t,,Hill2010,97_ash-8,false,^k u k u t$,default,UA fire
 Kitanemuk-98_burn-1,3595,Kitanemuk,98_burn,hu7,hu7,h u 7/ʔ,,Miller1984,98_burn-9,false,^h u 7$,default,JHH: use hu7 (transitive verb)
@@ -3850,7 +3850,7 @@ Kitanemuk-102_green-1,3619,Kitanemuk,102_green,ra7upk,ra7upk,r a 7/ʔ u p k,,Hil
 Kitanemuk-103_yellow-1,3689,Kitanemuk,103_yellow,7amariyo7,7amariyo7,7/ʔ a m a r i y/j o 7/ʔ,,Miller1984,,true,^7 a m a r iyo 7$,default,Spanish
 Kitanemuk-104_white-1,3685,Kitanemuk,104_white,7ayak,7ayak,7/ʔ a y/j a k,,Miller1984,104_white-11,false,^7 aya k$,default,"?? odd in Gb, Sr too, not Yokuts, not Chumash"
 Kitanemuk-105_black-1,3591,Kitanemuk,105_black,monushmu7,monushmu7,m o n u sh/ʃ m u 7/ʔ,,Miller1984,105_black-6,false,^m o n u sh m u 7$,default,"mo?, jo prob. UA  S 1485a ""night"""
-Kitanemuk-105_black-2,5437,Kitanemuk,105_black,jo7vy7k,jo7vy7k,j/dʒ o 7/ʔ v y ˀk,,Miller1984,105_black-6,false,^j o 7 v y 7k $,default,"mo?, jo prob. UA  S 1485a ""night"""
+Kitanemuk-105_black-2,5437,Kitanemuk,105_black,jo7vy7k,jo7vy7k,j/dʒ o ˀv y ˀk,,Miller1984,105_black-6,false,^j o 7v y 7k $,default,"mo?, jo prob. UA  S 1485a ""night"""
 Kitanemuk-106_night-1,3645,Kitanemuk,106_night,tuka,tuka,t u k a,,Miller1984,106_night-1,false,^t u k a$,default,UA
 Kitanemuk-107_name-1,3641,Kitanemuk,107_name,tyw,tyw,t y w,,Hill2010,107_name-2,false,^t y w$,default,UA
 Kitanemuk-108_year-1,3688,Kitanemuk,108_year,tyvach,tyvach,t y v a ch/tʃ,,Miller1984,108_year-7,false,^t y v a ch$,default,?? JHH: Perfect with 7 (see Kawaiisu)
@@ -3867,7 +3867,7 @@ Kitanemuk-119_this-1,4256,Kitanemuk,119_this,iβiʔ,iβiʔ,i β i ʔ,,Miller1984
 Kitanemuk-120_that-1,5564,Kitanemuk,120_that,ɑmɑʔ,ɑmɑʔ,ɑ m ɑ ʔ,,Miller1984,120_that-21,false,^ɑ m ɑ ʔ$,default,
 Kitanemuk-120_that-2,4291,Kitanemuk,120_that,pɑtɑʔ,pɑtɑʔ,p ɑ t ɑ ʔ,,Miller1984,120_that-7,false,^p ɑ t ɑ ʔ$,default,
 Kitanemuk-121_all-1,4326,Kitanemuk,121_all,puju,puju,p u j/dʒ u,,Miller1984,121_all-8,false,^p u j u$,default,
-Kitanemuk-122_swim-1,4361,Kitanemuk,122_swim,pɑβɑtsɑjʔeʔ,pɑβɑtsɑjʔeʔ,p ɑ β ɑ ts ɑ j/dʒ ʔ e ʔ,,Miller1984,122_swim-6,false,^p ɑ β ɑ ts ɑ j ʔ e ʔ$,default,
+Kitanemuk-122_swim-1,4361,Kitanemuk,122_swim,pɑβɑtsɑjʔeʔ,pɑβɑtsɑjʔeʔ,p ɑ β ɑ ts ɑ dʒˀ e ʔ,,Miller1984,122_swim-6,false,^p ɑ β ɑ ts ɑ jʔ e ʔ$,default,
 Kiowa-1_nonot-1,3828,Kiowa,1_nonot,hᴐ̨-n,hᴐ̨-n,h ᴐ̨/ɔ̃ + n,,Miller1984,1_nonot-11,false,^h ᴐ̨ - n$,default,
 Kiowa-2_many-1,3829,Kiowa,2_many,ᴐ́y,ᴐ́y,ᴐ́/ɔ y,,Watkins1984,2_many-14,false,^ᴐ́ y$,default,(be many)
 Kiowa-3_one-1,3830,Kiowa,3_one,paakᴐ,paakᴐ,p aː k ɔ,,Watkins1984,3_one-9,false,^p aa k ᴐ$,default,
@@ -4138,7 +4138,7 @@ ShoshoniGosiute-31_root-1,963,ShoshoniGosiute,31_root,tɨtɨna,tɨtɨna,t ɨ t �
 ShoshoniGosiute-32_seed-1,995,ShoshoniGosiute,32_seed,pehe,pehe,p e h e,,Miller1984,32_seed-2,false,^p e h e$,default,
 ShoshoniGosiute-33_blood-1,1027,ShoshoniGosiute,33_blood,pɨɨp-pin,pɨɨp-pin,p ɨː p + p i n,,Miller1984,33_blood-1,false,^p ɨɨ p - p i n$,default,
 ShoshoniGosiute-34_meat-1,1059,ShoshoniGosiute,34_meat,tukku,tukku,t u kː u,,Miller1984,34_meat-1,false,^t u kk u$,default,
-ShoshoniGosiute-35_skin-1,1091,ShoshoniGosiute,35_skin,poʔanʔ,poʔanʔ,p o ʔ a n ʔ,,Miller1984,35_skin-1,false,^p o ʔ a n ʔ$,default,(=#29)
+ShoshoniGosiute-35_skin-1,1091,ShoshoniGosiute,35_skin,poʔanʔ,poʔanʔ,p o ʔ a nˀ,,Miller1984,35_skin-1,false,^p o ʔ a nʔ $,default,(=#29)
 ShoshoniGosiute-36_bone-1,1123,ShoshoniGosiute,36_bone,cuhni,cuhni,ts u h n i,,Miller1984,36_bone-2,false,^c u h n i$,default,
 ShoshoniGosiute-37_greasefat-1,1155,ShoshoniGosiute,37_greasefat,yuhu,yuhu,j u h u,,Miller1984,37_greasefat-1,false,^yu h u$,default,
 ShoshoniGosiute-38_egg-1,1187,ShoshoniGosiute,38_egg,noyo,noyo,n o y/j o,,Miller1984,38_egg-1,false,^n oyo$,default,
@@ -4300,7 +4300,7 @@ Coahuilteco-2_many-1,5600,Coahuilteco,2_many,axtzō,axtzō,a x t z ō/oː,,Swant
 Coahuilteco-2_many-2,5601,Coahuilteco,2_many,apa,apa,a p a,,Swanton1940,,false,^a p a$,default,
 Coahuilteco-2_many-3,5602,Coahuilteco,2_many,ka,ka,k a,,Swanton1940,,false,^k a$,default,
 Coahuilteco-2_many-4,5603,Coahuilteco,2_many,oxāux,oxāux,o x aː u x,,Swanton1940,,false,^o x ā u x$,default,
-Coahuilteco-3_one-1,5604,Coahuilteco,3_one,pil',pil',p i l ʔ,,Swanton1940,,false,^p i l '$,default,
+Coahuilteco-3_one-1,5604,Coahuilteco,3_one,pil',pil',p i lˀ,,Swanton1940,,false,^p i l' $,default,
 Coahuilteco-4_two-1,5605,Coahuilteco,4_two,axtē,axtē,a x t ē/eː,,Swanton1940,,false,^a x t ē$,default,
 Coahuilteco-6_old-1,5606,Coahuilteco,6_old,aptzāi,aptzāi,a p t z aː i,,Swanton1940,,false,^a p t z ā i$,default,
 Coahuilteco-11_good-1,5607,Coahuilteco,11_good,tcan,tcan,t ts a n,,Swanton1940,,false,^t c a n$,default,
@@ -4731,7 +4731,7 @@ ProtoKeresan-104_white-1,6384,ProtoKeresan,104_white,*gášé,gášé,g á/a ʃ 
 ProtoKeresan-104_white-2,6385,ProtoKeresan,104_white,*gášé-·ná,gášé-·ná,g á/a ʃ é/e + n á/a,,Miller1963,104_white-40,false,^g á š é -· n á$,default,
 ProtoKeresan-105_black-1,6389,ProtoKeresan,105_black,*mī̂·nagan̉ɪ,mī̂·nagan̉ɪ,m î/i + n a g a n̉/n ɪ,,Miller1963,105_black-40,false,^m ī̂ · n a g a n̉ ɪ$,default,
 ProtoKeresan-107_name-1,6395,ProtoKeresan,107_name,*ʔé·-gá,ʔé·-gá,ʔ é/e + g á/a,,Miller1963,107_name-40,false,^ʔ é ·- g á$,default,
-ProtoKeresan-110_three-1,6402,ProtoKeresan,110_three,*ʔčémɪ,ʔčémɪ,ʔ tʃ é/e m ɪ,,Miller1963,110_three-40,false,^ʔ č é m ɪ$,default,
+ProtoKeresan-110_three-1,6402,ProtoKeresan,110_three,*ʔčémɪ,ʔčémɪ,ˀtʃ é/e m ɪ,,Miller1963,110_three-40,false,^ʔč é m ɪ$,default,
 ProtoKeresan-111_four-1,6406,ProtoKeresan,111_four,*dʸâ·na,dʸâ·na,dʲ â/a + n a,,Miller1963,111_four-40,false,^dʸ â · n a$,default,
 ProtoKeresan-112_five-1,6410,ProtoKeresan,112_five,*tâ·m̉ᴀ,tâ·m̉ᴀ,t â/a + m̉/m ɑ̟,,Miller1963,112_five-40,false,^t â · m̉ ᴀ$,default,
 ProtoKeresan-113_six-1,6414,ProtoKeresan,113_six,*sč̉ísᴀ,sč̉ísᴀ,s č̉/k í/i s ɑ̟,,Miller1963,113_six-40,false,^s č̉ í s ᴀ$,default,
@@ -5144,7 +5144,7 @@ Zuni-3_one-1,6421,Zuni,3_one,topinte,topinte,t o p i n t e,,Newman1958,,false,^t
 Zuni-4_two-1,6422,Zuni,4_two,qilin,qilin,q i l i n,,Newman1958,,false,^q i l i n$,default,
 Zuni-5_big-1,6423,Zuni,5_big,lha-na,lha-na,lh/l̥ a + n a,,Newman1958,,false,^lh a - n a$,default,be big
 Zuni-6_old-1,6424,Zuni,6_old,lhashshi,lhashshi,lh/l̥ a shsh/ʃː i,,Newman1958,,false,^lh a shsh i$,default,
-Zuni-7_small-1,6425,Zuni,7_small,zʔa,zʔa,z ʔ a,,Newman1958,,false,^z ʔ a$,default,
+Zuni-7_small-1,6425,Zuni,7_small,zʔa,zʔa,zˀ a,,Newman1958,,false,^zʔ a$,default,
 Zuni-8_short-1,6426,Zuni,8_short,koni,koni,k o n i,,Newman1958,,false,^k o n i$,default,
 Zuni-9_long-1,6427,Zuni,9_long,tasha,tasha,t a sh/ʃ a,,Newman1958,,false,^t a sh a$,default,become long
 Zuni-10_new-1,6428,Zuni,10_new,chim ʔona,chim ʔona,ch/tʃ i m + ʔ o n a,,Newman1958,,false,^ch i m + ʔ o n a$,default,
@@ -5155,7 +5155,7 @@ Zuni-14_dry-1,6432,Zuni,14_dry,kʔusa,kʔusa,kˀ u s a,,Newman1958,,false,^kʔ u
 Zuni-15_sharpblade-1,6433,Zuni,15_sharpblade,ʔotta,ʔotta,ʔ o tː a,,Newman1958,,false,^ʔ o tt a$,default,
 Zuni-16_dirty-1,6434,Zuni,16_dirty,ʔanchiʔmowa,ʔanchiʔmowa,ʔ a n ch/tʃ i ˀm o w a,,Newman1958,,false,^ʔ a n ch i ʔm o w a$,default,
 Zuni-17_full-1,6435,Zuni,17_full,potti,potti,p o tː i,,Newman1958,,false,^p o tt i$,default,
-Zuni-18_cold-1,6436,Zuni,18_cold,zʔe,zʔe,z ʔ e,,Newman1958,,false,^z ʔ e$,default,"cold, be or become"
+Zuni-18_cold-1,6436,Zuni,18_cold,zʔe,zʔe,zˀ e,,Newman1958,,false,^zʔ e$,default,"cold, be or become"
 Zuni-19_hot-1,6437,Zuni,19_hot,kʔalhi,kʔalhi,kˀ a lh/l̥ i,,Newman1958,,false,^kʔ a lh i$,default,"hot, become"
 Zuni-20_woman-1,6438,Zuni,20_woman,kʔa-na-qayi-na,kʔa-na-qayi-na,kˀ a + n a + q a y/j i + n a,,Newman1958,,false,^kʔ a - n a - q ayi - n a$,default,
 Zuni-21_man-1,6439,Zuni,21_man,lhashshi-kʔi,lhashshi-kʔi,lh/l̥ a shsh/ʃː i + kˀ i,,Newman1958,,false,^lh a shsh i - kʔ i$,default,
@@ -5166,17 +5166,17 @@ Zuni-25_dog-1,6443,Zuni,25_dog,wazzita,wazzita,w a zː i t a,,Newman1958,,false,
 Zuni-26_louse-1,6444,Zuni,26_louse,me,me,m e,,Newman1958,,false,^m e$,default,body louse
 Zuni-27_snake-1,6445,Zuni,27_snake,ʔayasoʔa,ʔayasoʔa,ʔ a y/j a s o ʔ a,,Newman1958,,false,^ʔ aya s o ʔ a$,default,
 Zuni-28_tree-1,6446,Zuni,28_tree,ta-tta,ta-tta,t a + tː a,,Newman1958,,false,^t a - tt a$,default,
-Zuni-29_bark-1,6447,Zuni,29_bark,zʔiqqa,zʔiqqa,z ʔ i qː a,,Newman1958,,false,^z ʔ i qq a$,default,
+Zuni-29_bark-1,6447,Zuni,29_bark,zʔiqqa,zʔiqqa,zˀ i qː a,,Newman1958,,false,^zʔ i qq a$,default,
 Zuni-30_leaf-1,6448,Zuni,30_leaf,jaʔ-yachi,jaʔ-yachi,j/dʒ a ʔ + y/j a ch/tʃ i,,Newman1958,,false,^j a ʔ - ya ch i$,default,
 Zuni-31_root-1,6449,Zuni,31_root,lhaqi-mo,lhaqi-mo,lh/l̥ a q i + m o,,Newman1958,,false,^lh a q i - m o$,default,
 Zuni-32_seed-1,6450,Zuni,32_seed,ka,ka,k a,,Newman1958,,false,^k a$,default,seed (small)
 Zuni-32_seed-2,6451,Zuni,32_seed,to:sho,to:sho,t oː sh/ʃ o,,Newman1958,,false,^t o: sh o$,default,seeds
 Zuni-33_blood-1,6452,Zuni,33_blood,ʔate,ʔate,ʔ a t e,,Newman1958,,false,^ʔ a t e$,default,
 Zuni-34_meat-1,6453,Zuni,34_meat,shi,shi,sh/ʃ i,,Newman1958,,false,^sh i$,default,
-Zuni-35_skin-1,6454,Zuni,35_skin,zʔiqqa,zʔiqqa,z ʔ i qː a,,Newman1958,,false,^z ʔ i qq a$,default,
+Zuni-35_skin-1,6454,Zuni,35_skin,zʔiqqa,zʔiqqa,zˀ i qː a,,Newman1958,,false,^zʔ i qq a$,default,
 Zuni-36_bone-1,6455,Zuni,36_bone,sa,sa,s a,,Newman1958,,false,^s a$,default,
 Zuni-37_greasefat-1,6456,Zuni,37_greasefat,ʔisha-na,ʔisha-na,ʔ i sh/ʃ a + n a,,Newman1958,,false,^ʔ i sh a - n a$,default,
-Zuni-38_egg-1,6457,Zuni,38_egg,toko:ko moʔle,toko:ko moʔle,t o k oː k o + m o ʔ l e,,Newman1958,,false,^t o k o: k o + m o ʔ l e$,default,egg of chicken (/toko:ko/ = chicken)
+Zuni-38_egg-1,6457,Zuni,38_egg,toko:ko moʔle,toko:ko moʔle,t o k oː k o + m o ˀl e,,Newman1958,,false,^t o k o: k o + m o ʔl e$,default,egg of chicken (/toko:ko/ = chicken)
 Zuni-39_horn-1,6458,Zuni,39_horn,sa-ya,sa-ya,s a + y/j a,,Newman1958,,false,^s a - ya$,default,
 Zuni-40_tail-1,6459,Zuni,40_tail,jokti,jokti,j/dʒ o k t i,,Newman1958,,false,^j o k t i$,default,animal
 Zuni-40_tail-2,6460,Zuni,40_tail,kʔate,kʔate,kˀ a t e,,Newman1958,,false,^kʔ a t e$,default,bird
@@ -5186,7 +5186,7 @@ Zuni-42_hair-2,6463,Zuni,42_hair,zi,zi,z i,,Newman1958,,false,^z i$,default,(bod
 Zuni-43_head-1,6464,Zuni,43_head,ʔoshoqqi,ʔoshoqqi,ʔ o sh/ʃ o qː i,,Newman1958,,false,^ʔ o sh o qq i$,default,
 Zuni-44_ear-1,6465,Zuni,44_ear,lashokti,lashokti,l a sh/ʃ o k t i,,Newman1958,,false,^l a sh o k t i$,default,
 Zuni-45_eye-1,6466,Zuni,45_eye,tuna,tuna,t u n a,,Newman1958,,false,^t u n a$,default,
-Zuni-46_nose-1,6467,Zuni,46_nose,noʔli,noʔli,n o ʔ l i,,Newman1958,,false,^n o ʔ l i$,default,
+Zuni-46_nose-1,6467,Zuni,46_nose,noʔli,noʔli,n o ˀl i,,Newman1958,,false,^n o ʔl i$,default,
 Zuni-47_mouth-1,6468,Zuni,47_mouth,ʔawati,ʔawati,ʔ a w a t i,,Newman1958,,false,^ʔ a w a t i$,default,
 Zuni-48_tooth-1,6469,Zuni,48_tooth,ʔoʔna,ʔoʔna,ʔ o ˀn a,,Newman1958,,false,^ʔ o ʔn a$,default,
 Zuni-49_tongue-1,6470,Zuni,49_tongue,jonni,jonni,j/dʒ o nː i,,Newman1958,,false,^j o nn i$,default,
@@ -5197,7 +5197,7 @@ Zuni-53_hand-1,6474,Zuni,53_hand,ʔasi,ʔasi,ʔ a s i,,Newman1958,,false,^ʔ a s
 Zuni-54_arm-1,6475,Zuni,54_arm,ʔasi,ʔasi,ʔ a s i,,Newman1958,,false,^ʔ a s i$,default,
 Zuni-55_rope-1,6541,Zuni,55_rope,toʔni,toʔni,t o ˀn i,,Newman1958,,false,^t o ʔn i$,default,
 Zuni-56_belly-1,6478,Zuni,56_belly,kʔo-pp-ʔan,kʔo-pp-ʔan,kˀ o + pː + ʔ a n,,Newman1958,,false,^kʔ o - pp - ʔ a n$,default,
-Zuni-57_navelbellybutton-1,6479,Zuni,57_navelbellybutton,sha:muluʔqi,sha:muluʔqi,sh/ʃ aː m u l u ʔ q i,,Newman1958,,false,^sh a: m u l u ʔ q i$,default,
+Zuni-57_navelbellybutton-1,6479,Zuni,57_navelbellybutton,sha:muluʔqi,sha:muluʔqi,sh/ʃ aː m u l u ˀq i,,Newman1958,,false,^sh a: m u l u ʔq i$,default,
 Zuni-58_neck-1,6480,Zuni,58_neck,kʔisi,kʔisi,kˀ i s i,,Newman1958,,false,^kʔ i s i$,default,
 Zuni-59_breast-1,6481,Zuni,59_breast,mejana,mejana,m e j/dʒ a n a,,Newman1958,,false,^m e j a n a$,default,"breast, feeding bottle"
 Zuni-59_breast-2,6482,Zuni,59_breast,poʔjata,poʔjata,p o ˀdʒ a t a,,Newman1958,,false,^p o ʔj a t a$,default,"chest, breast"
@@ -5257,24 +5257,24 @@ Zuni-101_red-1,6533,Zuni,101_red,shilowa,shilowa,sh/ʃ i l o w a,,Newman1958,,fa
 Zuni-102_green-1,6534,Zuni,102_green,ʔashena,ʔashena,ʔ a sh/ʃ e n a,,Newman1958,,false,^ʔ a sh e n a$,default,
 Zuni-103_yellow-1,6535,Zuni,103_yellow,lhupzʔi,lhupzʔi,lh/l̥ u p zˀ i,,Newman1958,,false,^lh u p zʔ i$,default,
 Zuni-104_white-1,6536,Zuni,104_white,kʔoja,kʔoja,kˀ o j/dʒ a,,Newman1958,,false,^kʔ o j a$,default,
-Zuni-105_black-1,6537,Zuni,105_black,qʔi,qʔi,q ʔ i,,Newman1958,,false,^q ʔ i$,default,"black, be or become"
+Zuni-105_black-1,6537,Zuni,105_black,qʔi,qʔi,qˀ i,,Newman1958,,false,^qʔ i$,default,"black, be or become"
 Zuni-106_night-1,6538,Zuni,106_night,tejlhi,tejlhi,t e j/dʒ lh/l̥ i,,Newman1958,,false,^t e j lh i$,default,
 Zuni-107_name-1,6539,Zuni,107_name,shiʔi,shiʔi,sh/ʃ i ʔ i,,Newman1958,,false,^sh i ʔ i$,default,
 Zuni-108_year-1,6540,Zuni,108_year,te-piqayi-na,te-piqayi-na,t e + p i q a y/j i + n a,,Newman1958,,false,^t e - p i q ayi - n a$,default,
 Zuni-110_three-1,6542,Zuni,110_three,jaʔin,jaʔin,j/dʒ a ʔ i n,,Newman1958,,false,^j a ʔ i n$,default,
 Zuni-111_four-1,6543,Zuni,111_four,ʔa:witen,ʔa:witen,ʔ aː w i t e n,,Newman1958,,false,^ʔ a: w i t e n$,default,
 Zuni-112_five-1,6544,Zuni,112_five,ʔapten,ʔapten,ʔ a p t e n,,Newman1958,,false,^ʔ a p t e n$,default,
-Zuni-113_six-1,6545,Zuni,113_six,topalekkʔa,topalekkʔa,t o p a l e kː ʔ a,,Newman1958,,false,^t o p a l e kk ʔ a$,default,
+Zuni-113_six-1,6545,Zuni,113_six,topalekkʔa,topalekkʔa,t o p a l e kːˀ a,,Newman1958,,false,^t o p a l e kkʔ a$,default,
 Kawaiisu-1_nonot-1,6,Kawaiisu,1_nonot,yuwaatɨ,yuwaatɨ,j u w aː t ɨ,,Miller1984,1_nonot-6,false,^yu w aa t ɨ$,default,"miller 4, but also kedu stubbs 2008 JHH: Stubbs form is cognate in the *kai set but has shifted meaning to be only a ""prohibitive"" in Kawaiisu.  Item given is correct."
 Kawaiisu-2_many-1,38,Kawaiisu,2_many,awa-,awa-,a w a,,Miller1984,2_many-1,false,^a w a -$,default,
 Kawaiisu-3_one-1,70,Kawaiisu,3_one,suyu,suyu,s u y/j u,,Miller1984,3_one-1,false,^s uyu$,default,
 Kawaiisu-4_two-1,102,Kawaiisu,4_two,waha-,waha-,w a h a,,Miller1984,4_two-3,false,^w a h a -$,default,
 Kawaiisu-5_big-1,134,Kawaiisu,5_big,woko,woko,w o k o,,Miller1984,5_big-3,false,^w o k o$,default,
 Kawaiisu-6_old-1,166,Kawaiisu,6_old,hu(ʔ)iʔekweepɨ,huiʔekweepɨ,h ui ʔ e kʷ eː p ɨ,,Miller1984,,false,^h ui ʔ e kw ee p ɨ$,default,
-Kawaiisu-6_old-2,5022,Kawaiisu,6_old,hɨɨjʔekweepɨ,hɨɨjʔekweepɨ,h ɨː j/dʒ ʔ e kʷ eː p ɨ,,Miller1984,,false,^h ɨɨ j ʔ e kw ee p ɨ$,default,
+Kawaiisu-6_old-2,5022,Kawaiisu,6_old,hɨɨjʔekweepɨ,hɨɨjʔekweepɨ,h ɨː dʒˀ e kʷ eː p ɨ,,Miller1984,,false,^h ɨɨ jʔ e kw ee p ɨ$,default,
 Kawaiisu-6_old-3,5023,Kawaiisu,6_old,7ii-ty-,7ii-ty-,7/ʔ iː + tʲ,,Miller1984,6_old-4,false,^7 ii - ty -$,default,
-Kawaiisu-7_small-1,198,Kawaiisu,7_small,ɨɨvʔepiiči,ɨɨvʔepiiči,ɨː v ʔ e p iː tʃ i,,Miller1984,7_small-7,false,^ɨɨ v ʔ e p ii č i$,default,
-Kawaiisu-8_short-1,230,Kawaiisu,8_short,tovʔepiičɨ,tovʔepiičɨ,t o v ʔ e p iː tʃ ɨ,,Miller1984,8_short-4,false,^t o v ʔ e p ii č ɨ$,default,
+Kawaiisu-7_small-1,198,Kawaiisu,7_small,ɨɨvʔepiiči,ɨɨvʔepiiči,ɨː vˀ e p iː tʃ i,,Miller1984,7_small-7,false,^ɨɨ vʔ e p ii č i$,default,
+Kawaiisu-8_short-1,230,Kawaiisu,8_short,tovʔepiičɨ,tovʔepiičɨ,t o vˀ e p iː tʃ ɨ,,Miller1984,8_short-4,false,^t o vʔ e p ii č ɨ$,default,
 Kawaiisu-9_long-1,262,Kawaiisu,9_long,paʔatogora,paʔatogora,p a ʔ a t o g o r a,,Miller1984,9_long-3,false,^p a ʔ a t o g o r a$,default,= tall
 Kawaiisu-10_new-1,294,Kawaiisu,10_new,ɨɨvitɨ,ɨɨvitɨ,ɨː v i t ɨ,,Miller1984,10_new-5,false,^ɨɨ v i t ɨ$,default,
 Kawaiisu-11_good-1,326,Kawaiisu,11_good,pišaa-,pišaa-,p i ʃ aː,,Miller1984,11_good-2,false,^p i š aa -$,default,
@@ -5325,7 +5325,7 @@ Kawaiisu-52_knee-1,1636,Kawaiisu,52_knee,tana-vi,tana-vi,t a n a + v i,,Miller19
 Kawaiisu-53_hand-1,1668,Kawaiisu,53_hand,moʔo-vi,moʔo-vi,m o ʔ o + v i,,Miller1984,53_hand-2,false,^m o ʔ o - v i$,default,
 Kawaiisu-54_arm-1,1700,Kawaiisu,54_arm,pɨra-vɨ,pɨra-vɨ,p ɨ r a + v ɨ,,Miller1984,54_arm-1,false,^p ɨ r a - v ɨ$,default,
 Kawaiisu-55_rope-1,3447,Kawaiisu,55_rope,tuʔuru,tuʔuru,t u ʔ u r u,,Zigmond1990,55_rope-9,false,^t u ʔ u r u$,default,
-Kawaiisu-55_rope-2,5431,Kawaiisu,55_rope,w+ʔiv+s,w+ʔiv+s,w ʔ i v s,,Stubbs2011,,false,^w + ʔ i v + s$,default,
+Kawaiisu-55_rope-2,5431,Kawaiisu,55_rope,w+ʔiv+s,w+ʔiv+s,w ɨ ʔ i v ɨ s,,Stubbs2011,,false,^w + ʔ i v + s$,default,
 Kawaiisu-56_belly-1,1751,Kawaiisu,56_belly,sapɨivɨ,sapɨivɨ,s a p ɨi v ɨ,,Miller1984,56_belly-3,false,^s a p ɨi v ɨ$,default,
 Kawaiisu-57_navelbellybutton-1,1783,Kawaiisu,57_navelbellybutton,šigu-vi,šigu-vi,ʃ i g u + v i,,Miller1984,57_navelbellybutton-2,false,^š i g u - v i$,default,
 Kawaiisu-58_neck-1,1815,Kawaiisu,58_neck,kura-vi,kura-vi,k u r a + v i,,Miller1984,58_neck-1,false,^k u r a - v i$,default,
@@ -5572,7 +5572,7 @@ SouthernPaiute-17_full-2,5075,SouthernPaiute,17_full,ponoʔi,ponoʔi,p o n o ʔ 
 SouthernPaiute-18_cold-1,552,SouthernPaiute,18_cold,šɨp-pɨta,šɨp-pɨta,ʃ ɨ p + p ɨ t a,,Miller1984,18_cold-2,false,^š ɨ p - p ɨ t a$,default,
 SouthernPaiute-19_hot-1,584,SouthernPaiute,19_hot,ta-tuʔi,ta-tuʔi,t a + t u ʔ i,,Miller1984,19_hot-2,false,^t a - t u ʔ i$,default,(-tuʔi prob = 'become')
 SouthernPaiute-20_woman-1,616,SouthernPaiute,20_woman,mamaʔu,mamaʔu,m a m a ʔ u,,Miller1984,20_woman-2,false,^m a m a ʔ u$,default,
-SouthernPaiute-21_man-1,648,SouthernPaiute,21_man,taʔŋwa,taʔŋwa,t a ʔ ŋ w a,,Miller1984,21_man-2,false,^t a ʔ ŋw a$,default,
+SouthernPaiute-21_man-1,648,SouthernPaiute,21_man,taʔŋwa,taʔŋwa,t a ˀŋ w a,,Miller1984,21_man-2,false,^t a ʔŋ w a$,default,
 SouthernPaiute-22_person-1,5088,SouthernPaiute,22_person,nɨŋwɨ,nɨŋwɨ,n ɨ ŋ w ɨ,,Miller1984,22_person-1,false,^n ɨ ŋw ɨ$,default,
 SouthernPaiute-22_person-2,680,SouthernPaiute,22_person,nɨn-,nɨn-,n ɨ n,,Miller1984,22_person-1,false,^n ɨ n -$,default,
 SouthernPaiute-23_fish-1,712,SouthernPaiute,23_fish,pa-kɨu,pa-kɨu,p a + k ɨu,,Miller1984,23_fish-1,false,^p a - k ɨu$,default,"JHH: This one is transparently from *kyju with pa- ̈water̈ as prefix,..."
@@ -5726,7 +5726,7 @@ SouthernUte-42_hair-1,1320,SouthernUte,42_hair,páaki-pi,páaki-pi,p á/a a k i 
 SouthernUte-43_head-1,1352,SouthernUte,43_head,tɨcí-pi,tɨcí-pi,t ɨ ts í/i + p i,,Miller1984,43_head-3,false,^t ɨ c í - p i$,default,
 SouthernUte-44_ear-1,1384,SouthernUte,44_ear,nɨkká-pɨ,nɨkká-pɨ,n ɨ kː á/a + p ɨ,,Miller1984,44_ear-1,false,^n ɨ kk á - p ɨ$,default,
 SouthernUte-45_eye-1,1416,SouthernUte,45_eye,pɨʔí-pɨ,pɨʔí-pɨ,p ɨ ʔ í/i + p ɨ,,Miller1984,45_eye-1,false,^p ɨ ʔ í - p ɨ$,default,
-SouthernUte-46_nose-1,1448,SouthernUte,46_nose,mopóttʔo-ppɨ,mopóttʔo-ppɨ,m o p ó/o tː ʔ o + pː ɨ,,Miller1984,46_nose-1,false,^m o p ó tt ʔ o - pp ɨ$,default,
+SouthernUte-46_nose-1,1448,SouthernUte,46_nose,mopóttʔo-ppɨ,mopóttʔo-ppɨ,m o p ó/o tːˀ o + pː ɨ,,Miller1984,46_nose-1,false,^m o p ó ttʔ o - pp ɨ$,default,
 SouthernUte-47_mouth-1,1480,SouthernUte,47_mouth,tɨppá-pi,tɨppá-pi,t ɨ pː á/a + p i,,Miller1984,47_mouth-1,false,^t ɨ pp á - p i$,default,
 SouthernUte-48_tooth-1,1511,SouthernUte,48_tooth,tawá-ppɨ,tawá-ppɨ,t a w á/a + pː ɨ,,Miller1984,48_tooth-1,false,^t a w á - pp ɨ$,default,
 SouthernUte-49_tongue-1,1543,SouthernUte,49_tongue,akó-ppɨ,akó-ppɨ,a k ó/o + pː ɨ,,Miller1984,49_tongue-1,false,^a k ó - pp ɨ$,default,
