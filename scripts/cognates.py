@@ -3,8 +3,12 @@ from cltoolkit.util import lingpy_columns
 from pycldf import Dataset
 from lingpy.evaluate.acd import bcubes
 from lingpy import LexStat
+from pyclts import CLTS
 
-clwl = Wordlist(datasets=[Dataset.from_metadata("../cldf/cldf-metadata.json")])
+bipa = CLTS("clts").bipa
+
+clwl = Wordlist(datasets=[Dataset.from_metadata("../cldf/cldf-metadata.json")],
+        ts=bipa)
 clwl.load_cognates()
 # get languages with good coverage
 selected = []

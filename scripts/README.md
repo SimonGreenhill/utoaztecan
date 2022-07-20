@@ -15,7 +15,7 @@ $ pip install pyclts
 $ cd scripts
 $ git clone https://github.com/cldf-clts/clts
 $ cd clts
-$ git checkout v2.1.0
+$ git checkout v2.2.0
 $ cd ..
 ```
 
@@ -43,9 +43,9 @@ The results are:
 *************************
 * B-Cubed-Scores        *
 * --------------------- *
-* Precision:     0.9523 *
-* Recall:        0.5831 *
-* F-Scores:      0.7234 *
+* Precision:     0.9496 *
+* Recall:        0.5879 *
+* F-Scores:      0.7262 *
 *************************'
 ```
 
@@ -62,31 +62,31 @@ utoaztecan-Pipil               	mutʃi       	   1	   5
 utoaztecan-ClassicalAztec      	motʃi       	   1	   5
 utoaztecan-Cahuilla            	u̠mun       	   3	   3
 utoaztecan-Chemehuevi          	mɑnːo       	   4	   4
-utoaztecan-Kawaiisu            	monojo      	   4	   4
+utoaztecan-Kawaiisu            	monodʒo     	   4	   4
 utoaztecan-SouthernPaiute      	mano        	   4	   4
-utoaztecan-SouthernUte         	pɑʔɑmɑnuni  	   4	   4
 utoaztecan-SouthernPaiute      	manu        	   4	   4
-utoaztecan-SouthernUte         	mɑnuni      	   4	   4
-utoaztecan-SouthernUte         	pɑʔɑmɑnuktis	   4	  44
-utoaztecan-Comanche            	ojɯ         	   6	   6
-utoaztecan-ShoshoniGosiute     	ojoːn       	   6	   6
-utoaztecan-Comanche            	ojo         	   6	   6
-utoaztecan-Pannamint           	ojoːntɯ     	   6	   6
-utoaztecan-Pannamint           	ojoːntɯsɯ   	   6	   6
-utoaztecan-NorthernPaiute      	noːʔju      	   6	  19
+utoaztecan-SouthernUte         	pɑʔɑmɑnuni  	   4	  31
+utoaztecan-SouthernUte         	pɑʔɑmɑnuktis	   4	  31
+utoaztecan-SouthernUte         	mɑnuni      	   4	  31
+utoaztecan-Comanche            	odʒɯ        	   6	   6
+utoaztecan-ShoshoniGosiute     	odʒoːn      	   6	   6
+utoaztecan-Comanche            	odʒo        	   6	   6
+utoaztecan-Pannamint           	odʒoːntɯ    	   6	   6
+utoaztecan-Pannamint           	odʒoːntɯsɯ  	   6	   6
+utoaztecan-NorthernPaiute      	noːˀdʒu     	   6	  19
 utoaztecan-Cora                	heitse      	   7	   7
 utoaztecan-Cupeno              	pətɑ̠ʔɑmɑ   	   8	   8
 utoaztecan-Eudeve              	awona       	   9	   9
 utoaztecan-Eudeve              	haona       	   9	   9
 utoaztecan-Gabrielino          	owɑ̠̄ʔix    	  10	  10
 utoaztecan-Guarijio            	joma        	  11	  11
-utoaztecan-Hopi                	sosojɑm     	  12	  12
+utoaztecan-Hopi                	sosodʒɑm    	  12	  12
 utoaztecan-Hopi                	sosoj       	  12	  12
 utoaztecan-Huichol             	naitɯ       	  13	   1
-utoaztecan-Huichol             	junaitɯ     	  13	   1
+utoaztecan-Huichol             	dʒunaitɯ    	  13	   1
 utoaztecan-Huichol             	nai         	  13	   1
-utoaztecan-Kitanemuk           	puju        	  15	  15
-utoaztecan-Serrano             	puju        	  15	  15
+utoaztecan-Kitanemuk           	pudʒu       	  15	  15
+utoaztecan-Serrano             	pudʒu       	  15	  15
 utoaztecan-Luiseno             	tʃoʔon      	  16	  16
 utoaztecan-Mayo                	tsikti      	  17	  17
 utoaztecan-Yaqui               	tsikti      	  17	  17
@@ -100,9 +100,9 @@ utoaztecan-Tubar               	wetsɑ̠t     	  20	  33
 utoaztecan-Tubar               	wesɑ̠t      	  20	  33
 utoaztecan-Opata               	sə          	  21	  21
 utoaztecan-Pannamint           	wɯmː        	  22	  22
-utoaztecan-SanJuanPuebloTewa   	tʲɛ̃hkih    	  26	  26
+utoaztecan-SanJuanPuebloTewa   	tʲɛ̃ʰkih    	  26	  26
 utoaztecan-Tarahumara          	omɑrwɑme    	  32	  32
-utoaztecan-Tubatulabel         	piniju      	  34	  34
+utoaztecan-Tubatulabel         	pinidʒu     	  34	  15
 utoaztecan-ClassicalAztec      	iːxkitʃ     	  46	  46
 utoaztecan-Pannamint           	sɯmɯsɯ      	  50	  18
 ```
@@ -111,8 +111,8 @@ The first column in this file is the language identifier, the second column give
 
 In this example, we can see that the experts identify the first five words as cognates, while the algorithm splits them into two sets, one representing words starting with `[`n`]` the other words starting with `[`m`]`. 
 
-Cognate set 4 in the example only differs with respect to the word
-`[`pɑʔɑmɑnuktis`]`, which the algorithm fails to assign to the group, as it
+Cognate set 4 in the example only differs with respect to the words
+`[`pɑʔɑmɑnuktis`]`, `[`pɑʔɑmɑnuni`]`, and `[`mɑnuni`]`, which the algorithm fails to assign to the group, as it
 fails to detect the partial cognacy with the other words. 
 
 In order to test further, how much the two cognate judgments differ, we make an analysis of the sound correspondence patterns, using the method for sound correspondence pattern detection provided by the LingRex package (described in [List 2019](http://doi.org/10.1162/coli_a_00344)).
@@ -125,28 +125,29 @@ data.
 
 Correspondence patterns are determined by assigning individual alignment sites (columns in an alignment) to the same cluster. In order to compare two correspondence pattern analyses, we cannot directly compare the number of clusters identified, or the size of the clusters, since the original number of cognate sets and their overall cover varies drastically. As a result, we need to compare the results of this analysis indirectly by computing several additional statistics.
 
-These are provided in the following table, which can be computed by typic:
+These are provided in the following table, which can be computed by typing:
 
 ```
 $ python purity.py
 ```
 
-|                        |      Expert |      LexStat |
-|:-----------------------|------------:|-------------:|
-| singletons             | 1175        | 1852         |
-| cognates               |  588        |  888         |
-| patterns               | 1272        |  691         |
-| regular patterns       |  664        |  382         |
-| pattern proportion     |    0.522013 |    0.552822  |
-| sites                  | 3652        | 2772         |
-| clustered sites        |  748        |  413         |
-| sites proportion       |    0.204819 |    0.14899   |
-| purity                 |    0.538714 |    0.497098  |
-| cognates with patterns |  272        |  222         |
-| regular cognates       |   40        |   27         |
-| regularity             |    0.147059 |    0.121622  |
-| coverage               |  625        |  158         |
-| coverage proportion    |    0.120401 |    0.0304373 |
+                             Expert       LexStat
+----------------------  -----------  ------------
+singletons              1175         1859
+cognates                 588          869
+patterns                1276          689
+regular patterns         656          381
+pattern proportion         0.514107     0.552975
+sites                   3613         2726
+clustered sites          751          404
+sites proportion           0.207861     0.148202
+purity                     0.534804     0.494849
+cognates with patterns   270          229
+regular cognates          40           24
+regularity                 0.148148     0.104803
+coverage                 615          154
+coverage proportion        0.118474     0.0296667
+
 
 
 The first value, "singletons" points to the number of orphaned words which cannot be assigned to a cognate set. The automated analysis here has a significant amount of those.
@@ -157,7 +158,7 @@ We can see that the expert analysis cannot be reduced to as many patterns as the
  
 This, however, does not mean that the automatic analysis is superior, since it may also indicate that the analysis just picks out those parts in the data which are easiest to explain and leaves the rest unanalyzed. 
 
-This becomes obvious if we inspect number of individual alignment sites in the expert analysis (row "sites") in comparison with the automated analysis. If we furthermore compare the number of sites which qualify to be assigned to a cluster (clustered sites) and the propoertion of them, we can see that the expert analysis covers much more data than the automated analsyis. 
+This becomes obvious if we inspect number of individual alignment sites in the expert analysis (row "sites") in comparison with the automated analysis. If we furthermore compare the number of sites which qualify to be assigned to a cluster (clustered sites) and the proportion of them, we can see that the expert analysis covers much more data than the automated analsyis. 
 
 The purity is a measure that tests how well the correspondence patterns are "filled", that is, how much evidence we find in the data for a given pattern. Here, the expert analysis shows a higher amount of purity (which ranges between 1 for completely filled patterns and 0). 
 
