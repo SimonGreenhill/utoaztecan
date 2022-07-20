@@ -7,13 +7,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF Dataset accompanying Greenhill et al.'s \"Origin of Uto-Aztecan\" from 2021",
+    "dc:title": "CLDF Dataset accompanying Greenhill et al.'s \"Origin of Uto-Aztecan\" from 2022",
     "dcat:accessURL": "https://github.com/lexibank/utoaztecan",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/utoaztecan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-36-g31fa038",
+            "dc:created": "v1.0-37-g3eca539",
             "dc:title": "Repository"
         },
         {

@@ -1,4 +1,4 @@
-# CLDF Dataset accompanying Greenhill et al.'s "Origin of Uto-Aztecan" from 2021
+# CLDF Dataset accompanying Greenhill et al.'s "Origin of Uto-Aztecan" from 2022
 
 ## How to cite
 
