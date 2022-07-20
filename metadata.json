@@ -4,7 +4,7 @@
     "description": null,
     "license": "CC-BY-4.0",
     "url": null,
-    "citation": "Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2021): A recent northern origin for the Uto-Aztecan language family. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "citation": "Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2022): A recent northern origin for the Uto-Aztecan family. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "aboutUrl": null,
     "conceptlist": [],
     "lingpy_schema": null,
@@ -12,5 +12,5 @@
     "related": null,
     "source": null,
     "patron": null,
-    "version": "1.1.0"
+    "version": "1.2.0"
 }

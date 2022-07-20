@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2021): A recent northern origin for the Uto-Aztecan language family. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
+    "dc:bibliographicCitation": "Greenhill, Simon J., Hannah J. Haynie, Robert M. Ross, Angela M. Chira, List, Johann-Mattis, Lyle Campbell, Carlos A. Botero, and Russell D. Gray (2022): A recent northern origin for the Uto-Aztecan family. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/utoaztecan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-33-gd1050d7",
+            "dc:created": "v1.0-36-g31fa038",
             "dc:title": "Repository"
         },
         {
