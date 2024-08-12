@@ -31,7 +31,16 @@
             "name": "Russell D. Gray"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Greenhill, Simon J.",
+            "type": "Editor"
+        },
+        {
+            "name": "List, Johann-Mattis",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
