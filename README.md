@@ -1,4 +1,6 @@
-# CLDF Dataset accompanying Greenhill, Haynie et al.'s "Origin of Uto-Aztecan" from 2022
+# CLDF Dataset accompanying Greenhill et al.'s "Origin of Uto-Aztecan" from 2022
+
+[![CLDF validation](https://github.com/lexibank/utoaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/utoaztecan/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -15,15 +17,15 @@ This dataset is licensed under a CC-BY-4.0 license
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/utoaztecan.svg?branch=master)](https://travis-ci.org/lexibank/utoaztecan)
+[![CLDF validation](https://github.com/lexibank/utoaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/utoaztecan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 46
-- **Concepts:** 121
+- **Varieties:** 46 (linked to 46 different Glottocodes)
+- **Concepts:** 121 (linked to 121 different Concepticon concept sets)
 - **Lexemes:** 5,813
 - **Sources:** 38
 - **Synonymy:** 1.16
@@ -31,18 +33,18 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Cognate Diversity:** 0.22
 - **Invalid lexemes:** 0
 - **Tokens:** 29,005
-- **Segments:** 373 (0 BIPA errors, 0 CTLS sound class errors, 370 CLTS modified)
+- **Segments:** 373 (0 BIPA errors, 0 CLTS sound class errors, 370 CLTS modified)
 - **Inventory size (avg):** 50.24
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Greenhill, Simon J. | @SimonGreenhill | | Author
+Greenhill, Simon J. | @SimonGreenhill | | Author, Editor
 Hannah J. Haynie | | | Author
 Robert M. Ross | | | Author
 Angela M. Chira | @angela-mc | | Author
-List, Johann-Mattis | @LinguList | | Author
+List, Johann-Mattis | @LinguList | | Author, Editor
 Lyle Campbell | | | Author
 Carlos A. Botero | | | Author
 Russell D. Gray | | | Author
