@@ -13,13 +13,13 @@
         {
             "rdf:about": "https://github.com/lexibank/utoaztecan",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-3-gc8fa44a",
+            "dc:created": "v1.2-5-g2ed01d2",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:about": "git@github.com:glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         },
         {
@@ -29,7 +29,7 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.3.0",
             "dc:title": "CLTS"
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
