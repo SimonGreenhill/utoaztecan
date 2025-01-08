@@ -1,1 +1,15 @@
-{"language": {"id": "42", "language": "Ipai", "notes": null, "author": null, "silcode": "dih", "glottocode": "ipai1239", "problems": null, "classification": "Cochim\u00ed\u00ad-Yuman, Yuman, Delta-California", "typedby": null, "checkedby": null}, "lexicon": []}
+{
+  "language": {
+    "id": "42",
+    "language": "Ipai",
+    "notes": null,
+    "author": null,
+    "silcode": "dih",
+    "glottocode": "ipai1239",
+    "problems": null,
+    "classification": "Cochim\u00ed\u00ad-Yuman, Yuman, Delta-California",
+    "typedby": null,
+    "checkedby": null
+  },
+  "lexicon": []
+}

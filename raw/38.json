@@ -1,1 +1,15 @@
-{"language": {"id": "38", "language": "Big Smoky Valley Shoshone", "notes": null, "author": null, "silcode": "shh", "glottocode": "shos1248", "problems": null, "classification": "Uto-Aztecan, Northern Uto-Aztecan, Numic, Central", "typedby": null, "checkedby": null}, "lexicon": []}
+{
+  "language": {
+    "id": "38",
+    "language": "Big Smoky Valley Shoshone",
+    "notes": null,
+    "author": null,
+    "silcode": "shh",
+    "glottocode": "shos1248",
+    "problems": null,
+    "classification": "Uto-Aztecan, Northern Uto-Aztecan, Numic, Central",
+    "typedby": null,
+    "checkedby": null
+  },
+  "lexicon": []
+}

@@ -1,1 +1,15 @@
-{"language": {"id": "40", "language": "Western Shoshone", "notes": null, "author": null, "silcode": "shh", "glottocode": "west2622", "problems": null, "classification": "Uto-Aztecan, Northern Uto-Aztecan, Numic, Central", "typedby": null, "checkedby": null}, "lexicon": []}
+{
+  "language": {
+    "id": "40",
+    "language": "Western Shoshone",
+    "notes": null,
+    "author": null,
+    "silcode": "shh",
+    "glottocode": "west2622",
+    "problems": null,
+    "classification": "Uto-Aztecan, Northern Uto-Aztecan, Numic, Central",
+    "typedby": null,
+    "checkedby": null
+  },
+  "lexicon": []
+}

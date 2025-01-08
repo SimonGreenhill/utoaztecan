@@ -1,1 +1,15 @@
-{"language": {"id": "37", "language": "Southeastern Tepehuan", "notes": null, "author": null, "silcode": "stp", "glottocode": "sout2976", "problems": null, "classification": "Uto-Aztecan, Southern Uto-Aztecan, Pimic, Tepehuan", "typedby": null, "checkedby": null}, "lexicon": []}
+{
+  "language": {
+    "id": "37",
+    "language": "Southeastern Tepehuan",
+    "notes": null,
+    "author": null,
+    "silcode": "stp",
+    "glottocode": "sout2976",
+    "problems": null,
+    "classification": "Uto-Aztecan, Southern Uto-Aztecan, Pimic, Tepehuan",
+    "typedby": null,
+    "checkedby": null
+  },
+  "lexicon": []
+}
