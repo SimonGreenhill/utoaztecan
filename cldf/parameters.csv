@@ -48,13 +48,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 47_mouth,mouth,674,MOUTH
 48_tooth,tooth,1380,TOOTH
 49_tongue,tongue,1205,TONGUE
-50_clawnail,"claw, nail",72,CLAW
+50_clawnail,"claw, nail",2128,CLAW OR NAIL
 51_foot,foot,1301,FOOT
 52_knee,knee,1371,KNEE
 53_hand,hand,1277,HAND
 54_arm,arm,1673,ARM
-63_eat,eat,1336,EAT
-64_bite,bite,1403,BITE
+55_rope,rope,1218,ROPE
 56_belly,belly,1251,BELLY
 57_navelbellybutton,"navel, bellybutton",1838,NAVEL
 58_neck,neck,1333,NECK
@@ -62,6 +61,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 60_heart,heart,1223,HEART
 61_liver,liver,1224,LIVER
 62_drink,drink,1401,DRINK
+63_eat,eat,1336,EAT
+64_bite,bite,1403,BITE
 65_vomit,vomit,1278,VOMIT
 66_see,see,1409,SEE
 67_hear,hear,1408,HEAR
@@ -87,7 +88,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 87_wind,wind,960,WIND
 88_rain,rain,658,RAIN (PRECIPITATION)
 89_snow,snow,784,SNOW
-90_stonerock,"stone, rock",857,STONE
+90_stonerock,"stone, rock",2125,STONE OR ROCK
 91_sand,sand,671,SAND
 92_earth,earth,1228,EARTH (SOIL)
 93_salt,salt,1274,SALT
@@ -106,17 +107,16 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 106_night,night,1233,NIGHT
 107_name,name,1405,NAME
 108_year,year,1226,YEAR
-55_rope,rope,1218,ROPE
-110_three,three,492,THREE
-111_four,four,1500,FOUR
-112_five,five,493,FIVE
-113_six,six,1703,SIX
-114_i,I,1209,I
-115_yousing,you (sing.),1215,THOU
-116_we,we,1212,WE
-117_what,what,1236,WHAT
-121_all,all,98,ALL
-120_that,that,78,THAT
-119_this,this,1214,THIS
-118_who,who,1235,WHO
-122_swim,swim,1439,SWIM
+109_three,three,492,THREE
+110_four,four,1500,FOUR
+111_five,five,493,FIVE
+112_six,six,1703,SIX
+113_i,I,1209,I
+114_yousing,you (sing.),1215,THOU
+115_we,we,1212,WE
+116_what,what,1236,WHAT
+117_who,who,1235,WHO
+118_this,this,1214,THIS
+119_that,that,78,THAT
+120_all,all,98,ALL
+121_swim,swim,1439,SWIM
