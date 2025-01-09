@@ -62,13 +62,16 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_makecldf(self, args):
-        languages = args.writer.add_languages(lookup_factory=lambda l: l["DatabaseID"])
-        concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split("-")[-1] + "_" + slug(c.gloss),
-            lookup_factory=lambda c: c["ID"].split("_")[0],
-        )
+        
         args.writer.add_sources()
-
+        
+        languages = args.writer.add_languages(lookup_factory=lambda l: l["DatabaseID"])
+        
+        concepts = args.writer.add_concepts(
+            id_factory=lambda w: '%s_%s' % (w.id.split("-")[-1], slug(w.english)),
+            lookup_factory=lambda w: w["ID"].split("_")[0],
+        )
+        
         sources = {s["ID"]: s["Key"] for s in self.etc_dir.read_csv("sources.csv", dicts=True)}
 
         jsonfiles = [j for j in self.raw_dir.iterdir() if j.suffix == ".json"]
@@ -79,11 +82,20 @@ class Dataset(BaseDataset):
             for d in data["lexicon"]:
                 if d["item"] == "?":
                     continue
+                
+                # patch concepts as original dataset is missing item 109 and this is not in 
+                # the concepticon list ...which means that if the word_id value in the dataset
+                # is 109+, then it needs to be decreased by one to match the concepts in
+                # concepticon
+                word_id = int(d['word_id'])
+                if word_id >= 109:
+                    parameter_id = concepts[str(word_id - 1)]
+                else:
+                    parameter_id = concepts[str(word_id)]
 
+                # handle cognacy and loan markers in cognacy column
                 loan = d["loan"] if d["loan"] else False
-
                 cogid = None
-
                 if d["cognacy"]:
                     # handle missing data
                     if d["cognacy"] == "?":
@@ -96,15 +108,15 @@ class Dataset(BaseDataset):
                         cogid = None
                     # everything else
                     else:
-                        cogid = "%s-%s" % (concepts.get(d["word_id"]), d["cognacy"])
+                        cogid = "%s-%s" % (parameter_id, d["cognacy"])
 
                 bibkey = sources.get(d["source_id"], None)
-
+                
                 lex = args.writer.add_forms_from_value(
                     ID=d["id"],
                     Local_ID=d["id"],
                     Language_ID=language,
-                    Parameter_ID=concepts.get(d["word_id"]),
+                    Parameter_ID=parameter_id,
                     Value=d["item"],
                     Source=bibkey,
                     Annotation=d["annotation"],
